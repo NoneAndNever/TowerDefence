@@ -1233,6 +1233,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   navigation: {fileID: 0}
+  _path:
+    pointList: []
+  _rigidbody2D: {fileID: 0}
+  _dir: {x: 0, y: 0}
+  posIndex: 0
   speed: 20
 --- !u!50 &1949900019
 Rigidbody2D:
