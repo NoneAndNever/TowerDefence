@@ -10,6 +10,11 @@ public class ObjectPool
     private Dictionary<string, Queue<GameObject>> objectPool = new Dictionary<string, Queue<GameObject>>();
     private GameObject pool;
 
+    public ObjectPool()
+    {
+        pool = new GameObject("ObjectPool");             //实例化总池对所有对象池进行统一存储
+    }
+    
     public GameObject GetObject(GameObject prefab)
     {
         GameObject gameObject;
@@ -17,7 +22,6 @@ public class ObjectPool
         if (!objectPool.ContainsKey(name) || objectPool[name].Count == 0)
             //如果不存在对应子池或实例可用数量为0，则实例化后推入池中
         {
-            if (!pool) pool = new GameObject("ObjectPool");             //如果总池不存在，则实例化总池对所有对象池进行统一存储
             GameObject childPool = pool.transform.Find(name).gameObject;    //寻找是否存在对应prefab的子池
             if (!childPool)                                                 //不存在则创建，并设置为总池的子物体
             {
