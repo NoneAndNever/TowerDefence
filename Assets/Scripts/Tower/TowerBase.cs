@@ -15,12 +15,13 @@ public class TowerBase : MonoBehaviour
     [SerializeField]protected float damageMultiplier;
     [SerializeField]protected float radiusMultiplier;
     [SerializeField]protected float speedMultiplier;
-    [Header("敌人")]
+    [Header("敌人")] 
+    [SerializeField]protected ContactFilter2D targetFilter;
     [SerializeField]protected List<Collider2D> enemies;
 
-    [Header("组件")]
-    [SerializeField]protected Rigidbody _rigidbody;
-    [SerializeField]protected Collider2D col;
+    /*[Header("组件")]*/
+    /*[SerializeField]protected Rigidbody _rigidbody;
+    [SerializeField]protected Collider2D col;*/
 
 
     protected virtual void Atk(Collider2D enemy){}
