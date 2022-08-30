@@ -1,0 +1,1596 @@
+fileFormatVersion: 2
+guid: 63f5abd04d1b22e4180e8002633cfa62
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4500262557695904314
+    second: Brigand Material_0
+  - first:
+      213: 4127477706925179096
+    second: Brigand Material_1
+  - first:
+      213: 2990492864122380481
+    second: Brigand Material_2
+  - first:
+      213: -8622930049666027301
+    second: Brigand Material_3
+  - first:
+      213: -4199744145470584016
+    second: Brigand Material_4
+  - first:
+      213: 3464340623082907432
+    second: Brigand Material_5
+  - first:
+      213: 2420221170804361877
+    second: Brigand Material_6
+  - first:
+      213: -7362676135214645859
+    second: Brigand Material_8
+  - first:
+      213: 934124111672774644
+    second: Brigand Material_9
+  - first:
+      213: 1697398380088160122
+    second: Brigand Material_10
+  - first:
+      213: -3754081552540091393
+    second: Brigand Material_11
+  - first:
+      213: -3554598291134291043
+    second: Brigand Material_12
+  - first:
+      213: 3145525787814827253
+    second: Brigand Material_13
+  - first:
+      213: -7037654220590201901
+    second: Brigand Material_15
+  - first:
+      213: 8674651250533078793
+    second: Brigand Material_16
+  - first:
+      213: 6097281627153493604
+    second: Brigand Material_17
+  - first:
+      213: -3709834794481192051
+    second: Brigand Material_18
+  - first:
+      213: -2742305563971317471
+    second: Brigand Material_19
+  - first:
+      213: -1268993195176136605
+    second: Brigand Material_20
+  - first:
+      213: -4979686414996846495
+    second: Brigand Material_21
+  - first:
+      213: -5050440740492521834
+    second: Brigand Material_22
+  - first:
+      213: 6646429229235770123
+    second: Brigand Material_23
+  - first:
+      213: 1720168211281253137
+    second: Brigand Material_24
+  - first:
+      213: -5397567387814587122
+    second: Brigand Material_25
+  - first:
+      213: -919140452747141028
+    second: Brigand Material_26
+  - first:
+      213: -7259070198362741849
+    second: Brigand Material_27
+  - first:
+      213: -5468770708754433014
+    second: Brigand Material_28
+  - first:
+      213: -2599939705433466039
+    second: Brigand Material_31
+  - first:
+      213: 4840675768534026428
+    second: Brigand Material_32
+  - first:
+      213: 7986315844846053877
+    second: Brigand Material_33
+  - first:
+      213: 2768865340225876503
+    second: Brigand Material_34
+  - first:
+      213: -3425870127149498313
+    second: Brigand Material_35
+  - first:
+      213: 4331968907417214676
+    second: Brigand Material_36
+  - first:
+      213: 6506928077782458669
+    second: Brigand Material_37
+  - first:
+      213: -3644354369346486216
+    second: Brigand Material_38
+  - first:
+      213: 721320063255421734
+    second: Brigand Material_40
+  - first:
+      213: 4201636678487131987
+    second: Brigand Material_41
+  - first:
+      213: 6704491794828415237
+    second: Brigand Material_42
+  - first:
+      213: -8189707078207784143
+    second: Brigand Material_43
+  - first:
+      213: -6232235095811531883
+    second: Brigand Material_47
+  - first:
+      213: 5866369395015372245
+    second: Brigand Material_48
+  - first:
+      213: -6718161441070663458
+    second: Brigand Material_49
+  - first:
+      213: -7489458175901934061
+    second: Brigand Material_50
+  - first:
+      213: -3763303547521185469
+    second: Brigand Material_51
+  - first:
+      213: 1519808120565341864
+    second: Brigand Material_52
+  - first:
+      213: 6227277208301507441
+    second: Brigand Material_53
+  - first:
+      213: 5180752563452483746
+    second: Brigand Material_54
+  - first:
+      213: 3902767406026828705
+    second: Brigand Material_55
+  - first:
+      213: -6065964437744053627
+    second: Brigand Material_56
+  - first:
+      213: 5433770102958230227
+    second: Brigand Material_57
+  - first:
+      213: 6214350656842145417
+    second: Brigand Material_61
+  - first:
+      213: 1036773252928030
+    second: Brigand Material_62
+  - first:
+      213: -7518173562238338743
+    second: Brigand Material_63
+  - first:
+      213: -6846079905754863870
+    second: Brigand Material_64
+  - first:
+      213: 904733186746451858
+    second: Brigand Material_65
+  - first:
+      213: 4069206279686921339
+    second: Brigand Material_66
+  - first:
+      213: -4255586389907997875
+    second: Brigand Material_67
+  - first:
+      213: -4556447660241231103
+    second: Brigand Material_68
+  - first:
+      213: 1893916386245517197
+    second: Brigand Material_69
+  - first:
+      213: -5195154402862081233
+    second: Brigand Material_70
+  - first:
+      213: 8394906139314412652
+    second: Brigand Material_71
+  - first:
+      213: 4749564716744718151
+    second: Brigand Material_72
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Brigand Material_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c57b841c0bdb81c0800000000000000
+      internalID: -4500262557695904314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 222
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d08e9b2b1fb74930800000000000000
+      internalID: 4127477706925179096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 212
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0ea556a6d508920800000000000000
+      internalID: 2990492864122380481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 213
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd07d9a5ec2355880800000000000000
+      internalID: -8622930049666027301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_4
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 202
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b03bd63f287b5c0800000000000000
+      internalID: -4199744145470584016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_5
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 204
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827efcb117fc31030800000000000000
+      internalID: 3464340623082907432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a8cabf45a569120800000000000000
+      internalID: 2420221170804361877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_8
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 188
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9df84c601582d990800000000000000
+      internalID: -7362676135214645859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 182
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff026c2eeca6fc00800000000000000
+      internalID: 934124111672774644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_10
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 189
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f6a7f55de5e8710800000000000000
+      internalID: 1697398380088160122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb300bc7b2d6ebc0800000000000000
+      internalID: -3754081552540091393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_12
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 177
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93eab1ffa78baec0800000000000000
+      internalID: -3554598291134291043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_13
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 143
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4988ec90727ab20800000000000000
+      internalID: 3145525787814827253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 169
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d341b106ca355e90800000000000000
+      internalID: -7037654220590201901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_16
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 171
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9071c622a5d826870800000000000000
+      internalID: 8674651250533078793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_17
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 162
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46eeff9c555ed9450800000000000000
+      internalID: 6097281627153493604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 164
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d837093f8e4048cc0800000000000000
+      internalID: -3709834794481192051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_19
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 153
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12199e17e9f51f9d0800000000000000
+      internalID: -2742305563971317471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_20
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 130
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36073239961a36ee0800000000000000
+      internalID: -1268993195176136605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 137
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168464dc69994eab0800000000000000
+      internalID: -4979686414996846495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_22
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 126
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e48c7a7ea39e9b0800000000000000
+      internalID: -5050440740492521834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_23
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 129
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b031f517b2cdc3c50800000000000000
+      internalID: 6646429229235770123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_24
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 122
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1139653dfd34fd710800000000000000
+      internalID: 1720168211281253137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_25
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 123
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05141eee0df715b0800000000000000
+      internalID: -5397567387814587122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_26
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 115
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50a057c0ae8e33f0800000000000000
+      internalID: -919140452747141028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 93
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3e6f26d1a924b90800000000000000
+      internalID: -7259070198362741849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_28
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 96
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c71a2e3060b14b0800000000000000
+      internalID: -5468770708754433014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_31
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 86
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b543cec982bebd0800000000000000
+      internalID: -2599939705433466039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 93
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8cf48e6f88d2340800000000000000
+      internalID: 4840675768534026428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_33
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 81
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f96f1492f715de60800000000000000
+      internalID: 7986315844846053877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_34
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 86
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712fd0b5b5cfc6620800000000000000
+      internalID: 2768865340225876503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_35
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 80
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730c1a8354dd470d0800000000000000
+      internalID: -3425870127149498313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_36
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 82
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ded3a005ce3e1c30800000000000000
+      internalID: 4331968907417214676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_37
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 77
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d212d3f8c904d4a50800000000000000
+      internalID: 6506928077782458669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_38
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 100
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830c57b7207ac6dc0800000000000000
+      internalID: -3644354369346486216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_40
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 65
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623a3bb96c4a20a00800000000000000
+      internalID: 721320063255421734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3574a704c463f4a30800000000000000
+      internalID: 4201636678487131987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_42
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 48
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501d446f3c32b0d50800000000000000
+      internalID: 6704491794828415237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 46
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b3ce4adc0585e80800000000000000
+      internalID: -8189707078207784143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_47
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 43
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b5e6d3337a289a0800000000000000
+      internalID: -6232235095811531883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_48
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 37
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd4d1722e7896150800000000000000
+      internalID: 5866369395015372245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_49
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 43
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8b14183cb44c2a0800000000000000
+      internalID: -6718161441070663458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_50
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 40
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e58394879101890800000000000000
+      internalID: -7489458175901934061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_51
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 41
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3494804cc5f06cbc0800000000000000
+      internalID: -3763303547521185469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_52
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 39
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae1d01fe61771510800000000000000
+      internalID: 1519808120565341864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_53
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 39
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17392be90abbb6650800000000000000
+      internalID: 6227277208301507441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_54
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 39
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a897c5f10bb5e740800000000000000
+      internalID: 5180752563452483746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aba33d274a692630800000000000000
+      internalID: 3902767406026828705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_56
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5821d149b7d51dba0800000000000000
+      internalID: -6065964437744053627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da86f98e11a86b40800000000000000
+      internalID: 5433770102958230227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_61
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e9ac25ffecd3650800000000000000
+      internalID: 6214350656842145417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_62
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12147590fea30000800000000000000
+      internalID: 1036773252928030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_63
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949fc076af41aa790800000000000000
+      internalID: -7518173562238338743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_64
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207aa890996ddf0a0800000000000000
+      internalID: -6846079905754863870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_65
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 0
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29787843a024e8c00800000000000000
+      internalID: 904733186746451858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_66
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c17824d89b87830800000000000000
+      internalID: 4069206279686921339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_67
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bfb86b9be11f4c0800000000000000
+      internalID: -4255586389907997875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_68
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 0
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10369ad7efe34c0c0800000000000000
+      internalID: -4556447660241231103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_69
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f947c3bea884a10800000000000000
+      internalID: 1893916386245517197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_70
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 0
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b5910889a17e7b0800000000000000
+      internalID: -5195154402862081233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_71
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 0
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cd494d7a2b08470800000000000000
+      internalID: 8394906139314412652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand Material_72
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 0
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7473c4312f7d9e140800000000000000
+      internalID: 4749564716744718151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
