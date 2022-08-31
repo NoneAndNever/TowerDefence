@@ -54,11 +54,11 @@ public class TowerBase : MonoBehaviour
         
         //存在多个则进行遍历，寻找距离终点最近的目标并进行攻击
         int minIndex = 0;
-        int minPos = enemies[0].GetComponent<Movement>().GetPosIndex();
+        int minPos = enemies[0].GetComponent<Enemy>().GetPosIndex();
         int curPos;
         for (int i = 0; i < enemies.Count; i++)
         {
-            curPos = enemies[i].GetComponent<Movement>().GetPosIndex();
+            curPos = enemies[i].GetComponent<Enemy>().GetPosIndex();
             if (minPos <= curPos) continue;
             minIndex = i;
             minPos = curPos;

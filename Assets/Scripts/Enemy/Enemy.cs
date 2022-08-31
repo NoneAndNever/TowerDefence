@@ -11,7 +11,7 @@ public class Enemy : MonoBehaviour
 
     [Header("移动相关")]
     [SerializeField]private PathManager pathManager;
-    [SerializeField]private Path _path;
+    [SerializeField]public Path _path;
     [SerializeField]private Vector2 _dir;
     [SerializeField]private int posIndex;
     [SerializeField]private int speed = 1;
@@ -46,7 +46,12 @@ public class Enemy : MonoBehaviour
             ObjectPool.Instance.PushObject(gameObject);
         }
     }
-    
+
+
+    public void SetOffset(Vector2 offset)
+    {
+        this.offset = offset;
+    }
     public int GetPosIndex()
     {
         return posIndex;
