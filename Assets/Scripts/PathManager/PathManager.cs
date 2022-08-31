@@ -6,7 +6,7 @@ public class PathManager:MonoBehaviour
 {
     public List<Path> pathManager = new List<Path>();
     
-    public Path GetPath(int index)
+    public Path GetPath(int index)  
     {
         return pathManager[index];
     }

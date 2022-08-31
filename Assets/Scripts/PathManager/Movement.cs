@@ -29,7 +29,8 @@ public class Movement : MonoBehaviour
     {
         return posIndex;
     }
-    private void Move()
+
+    private void Move()     //敌人移动                                                                                                                                                            
     {
         Vector2 selfPos = transform.position;
         Vector2 desPos = _path.GetNode(posIndex).position;

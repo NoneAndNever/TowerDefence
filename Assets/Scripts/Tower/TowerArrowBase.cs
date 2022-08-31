@@ -31,7 +31,7 @@ public class TowerArrowBase : TowerBase
     }
     
 
-    protected override void Atk(Collider2D enemy)
+    protected override void Atk(Collider2D enemy)    //攻击
     {
         print("开始攻击");
         if(!enemy) return;
@@ -40,7 +40,7 @@ public class TowerArrowBase : TowerBase
         //ObjectPool.Instance.GetObject(arrows[0]);
     }
 
-    private Collider2D ChooseEnemy(Vector2 pos, float radius)
+    private Collider2D ChooseEnemy(Vector2 pos, float radius)      //选择敌人  
     {
         Physics2D.OverlapCircle(pos, radius, targetFilter, enemies);
         if (enemies.Count == 0) return null;
