@@ -54,15 +54,35 @@ public class TowerBase : MonoBehaviour
         
         //存在多个则进行遍历，寻找距离终点最近的目标并进行攻击
         int minIndex = 0;
-        int minPos = enemies[0].GetComponent<Enemy>().GetPosIndex();
+        int minPos = enemies[0].GetComponent<Enemy>().GetPosIndex();    //最近是第一个敌人
         int curPos;
+
+
         for (int i = 0; i < enemies.Count; i++)
         {
-            curPos = enemies[i].GetComponent<Enemy>().GetPosIndex();
-            if (minPos <= curPos) continue;
+            var point = enemies[i].GetComponent<Enemy>()._path.GetNode(enemies[i].GetComponent<Enemy>().GetPosIndex()).position;
+            print("第"+i+"个,pos="+ enemies[i].GetComponent<Enemy>().GetPosIndex()+"距离："+ (enemies[i].transform.position - point).magnitude);
+        }
+
+
+        for (int i = 1; i < enemies.Count; i++)                                             
+        {
+            curPos = enemies[i].GetComponent<Enemy>().GetPosIndex();    //获取第i个敌人索引
+            print(minPos+","+ curPos);
+            if (minPos < curPos) continue;      //如果第i个敌人索引更往前
+            if (minPos == curPos)
+            {
+                Vector3 nextPointI = enemies[i].GetComponent<Enemy>()._path.GetNode(curPos).position;        //得到第i个敌人的目标点坐标
+                Vector3 nextPointM = enemies[minIndex].GetComponent<Enemy>()._path.GetNode(minPos).position;    //得到的是最近敌人的目标点坐标
+                if ((enemies[i].transform.position - nextPointI).magnitude > (enemies[minIndex].transform.position - nextPointM).magnitude)
+                    continue;
+            }
             minIndex = i;
             minPos = curPos;
+            print("此轮结果最小是" + minIndex);
+           
         }
+        print(minIndex);
         Atk(enemies[minIndex]);
     }
 }

@@ -27,7 +27,7 @@ public class Enemy : MonoBehaviour
         offset = new Vector2(0.2f, 0.5f);
         _path=pathManager.GetPath(0);
         transform.position = _path.GetNode(_path.GetCount()-1).position+(Vector3)offset;
-        posIndex = _path.GetCount()-1;
+        posIndex = _path.GetCount()-2;
     }
 
     
@@ -70,8 +70,8 @@ public class Enemy : MonoBehaviour
         }
         _dir = (desPos - selfPos).normalized;
         transform.Translate(_dir*speed*Time.deltaTime);*/
-        Vector2 selfPos = _path.GetNode(posIndex).position;
-        Vector2 desPos = _path.GetNode(posIndex-1).position;
+        Vector2 selfPos = _path.GetNode(posIndex+1).position;
+        Vector2 desPos = _path.GetNode(posIndex).position;
         if ((desPos-(Vector2)transform.position).magnitude<0.5f)
         {
             print("distance小于0.2");

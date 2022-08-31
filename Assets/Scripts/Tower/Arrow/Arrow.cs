@@ -48,7 +48,7 @@ public class Arrow : MonoBehaviour
         Vector2 targetPos = target.position;
         referPoint = new Vector2(Mathf.Lerp(selfPos.x,targetPos.x,0.5f),
             (selfPos.y>targetPos.y? selfPos.y:targetPos.y)+Random.Range(0.75f,1.25f));
-        print(referPoint);
+        //print(referPoint);
         return this;
     }
 
