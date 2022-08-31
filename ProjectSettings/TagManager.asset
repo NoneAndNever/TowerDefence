@@ -6,7 +6,6 @@ TagManager:
   tags:
   - Enemy_Land
   - Enemy_Air
-  - Road
   layers:
   - Default
   - TransparentFX
@@ -14,8 +13,8 @@ TagManager:
   - 
   - Water
   - UI
-  - Obstacle
-  - Road
+  - 
+  - 
   - Enemy_Air
   - Enemy_Land
   - 
