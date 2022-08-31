@@ -9,13 +9,16 @@ public class Movement : MonoBehaviour
     private Path _path;
     private Vector2 _dir;
     private int posIndex;
-    public int speed = 20;
+    public int speed = 1;
+    public Vector2 offset;
     
     private void OnEnable()
     {
+        offset = new Vector2(0.2f, 0.5f);
         _path=pathManager.GetPath(0);
-        transform.position = _path.GetNode(_path.GetCount()-1).position;
-        posIndex = _path.GetCount()-2;
+        transform.position = _path.GetNode(_path.GetCount()-1).position+(Vector3)offset;
+        posIndex = _path.GetCount()-1;
+        
 
     }
 
@@ -29,12 +32,12 @@ public class Movement : MonoBehaviour
     {
         return posIndex;
     }
-
-    private void Move()     //敌人移动                                                                                                                                                            
+    
+    private void Move()
     {
-        Vector2 selfPos = transform.position;
+        /*Vector2 selfPos = transform.position;
         Vector2 desPos = _path.GetNode(posIndex).position;
-        if ((desPos-selfPos).sqrMagnitude<0.3f)
+        if ((desPos-selfPos).magnitude<0.3f)
         {
             print("distance小于0.2");
             posIndex--;
@@ -42,6 +45,18 @@ public class Movement : MonoBehaviour
             desPos = _path.GetNode(posIndex).position;
         }
         _dir = (desPos - selfPos).normalized;
-        transform.Translate(_dir*20*Time.deltaTime);
+        transform.Translate(_dir*speed*Time.deltaTime);*/
+        Vector2 selfPos = _path.GetNode(posIndex).position;
+        Vector2 desPos = _path.GetNode(posIndex-1).position;
+        if ((desPos-(Vector2)transform.position).magnitude<0.5f)
+        {
+            print("distance小于0.2");
+            posIndex--;
+            if (posIndex<0) return;
+            desPos = _path.GetNode(posIndex).position;
+        }
+        _dir = (desPos - selfPos).normalized;
+        transform.Translate(_dir*speed*Time.deltaTime);
     }
+    
 }

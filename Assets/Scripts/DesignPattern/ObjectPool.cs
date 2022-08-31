@@ -19,15 +19,19 @@ public class ObjectPool
     {
         GameObject gameObject;
         string name = prefab.name + "Pool";
-        if (!objectPool.ContainsKey(name) || objectPool[name].Count == 0)
-            //如果不存在对应子池或实例可用数量为0，则实例化后推入池中
+        if (!objectPool.ContainsKey(name))
+            //如果不存在对应子池,，则实例化后推入池中
+        {
+            //不存在则创建，并设置为总池的子物体
+            GameObject childPool = new GameObject(name);
+            childPool.transform.SetParent(pool.transform);
+            gameObject = GameObject.Instantiate(prefab,childPool.transform);//实例化prefab对象，并设置为对应子池的子物体
+            PushObject(gameObject);                                         //推入队列等待应用
+        }
+        else if (objectPool[name].Count == 0)
+            //如果实例可用数量为0，则实例化后推入池中
         {
             GameObject childPool = pool.transform.Find(name).gameObject;    //寻找是否存在对应prefab的子池
-            if (!childPool)                                                 //不存在则创建，并设置为总池的子物体
-            {
-                childPool = new GameObject(name);
-                childPool.transform.SetParent(pool.transform);
-            }
             gameObject = GameObject.Instantiate(prefab,childPool.transform);//实例化prefab对象，并设置为对应子池的子物体
             PushObject(gameObject);                                         //推入队列等待应用
         }
