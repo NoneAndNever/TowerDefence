@@ -12,11 +12,11 @@ public class TowerBase : MonoBehaviour
     [SerializeField]protected float atkRadius;              //攻击半径
     [SerializeField]protected EDamageType damageType;       //伤害类型(物理/魔法/真实)
     [SerializeField]protected float atkTimer;
-    
-    [Header("增益相关")]
-    [SerializeField]protected float damageMultiplier;
-    [SerializeField]protected float radiusMultiplier;
-    [SerializeField]protected float speedMultiplier;
+
+    [Header("增益相关")] 
+    [SerializeField] protected float damageMultiplier = 1;
+    [SerializeField]protected float radiusMultiplier = 1;
+    [SerializeField]protected float speedMultiplier = 1;
     
     [Header("敌人")] 
     [SerializeField]protected ContactFilter2D targetFilter;

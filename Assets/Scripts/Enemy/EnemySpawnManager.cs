@@ -10,6 +10,6 @@ public class EnemySpawnManager : MonoBehaviour
 
     public void SpawnEnemy()
     {
-        ObjectPool.Instance.GetObject(gameObjects[0]).GetComponent<Enemy>().Offset=Vector2.zero;
+        ObjectPool.Instance.GetObject(gameObjects[0]).GetComponent<Enemy>().Offset=Vector2.zero;    
     }
 }

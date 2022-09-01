@@ -14,7 +14,6 @@ public class Attackable : MonoBehaviour
     /// <param name="damageType">攻击方造成的伤害类型</param>
     public void OnGetDamage(float damage, EDamageType damageType)
     {
-        GetDamage?.Invoke(damage,damageType);
+        GetDamage?.Invoke(damage, damageType);
     }
-    
 }

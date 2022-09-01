@@ -5,13 +5,13 @@ using UnityEditor;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
-public class TowerArrowBase : TowerBase
+public class TowerMagicBase : TowerBase
 {
     public static float universalDamageMultiplier = 1;
+
+    [SerializeField] private List<GameObject> magicball;
     
-    [SerializeField]private List<GameObject> arrows;
-    
-    //每当从对象池中启用时，重置所有Multiplier
+    //
     private void OnEnable()
     {
         damageMultiplier = 1;
@@ -19,7 +19,7 @@ public class TowerArrowBase : TowerBase
         speedMultiplier = 1;
         atkTimer = atkSpeed * speedMultiplier;
     }
-
+    
     private void Update()
     {
         
@@ -30,25 +30,14 @@ public class TowerArrowBase : TowerBase
         Debug.DrawLine(transform.position,transform.position+Vector3.left * (atkRadius * radiusMultiplier),Color.red,1);
     }
     
-
     protected override void Atk(Collider2D enemy)    //攻击
     {
         print("开始攻击"+enemy.name);
-        GameObject gameObject = ObjectPool.Instance.GetObject(arrows[0]);
+        GameObject gameObject = ObjectPool.Instance.GetObject(magicball[0]);
         gameObject.transform.position = transform.position;
         gameObject.GetComponent<Arrow>().SetTarget(enemy.transform)
             .damage=Random.Range(atkDamageMin,atkDamageMax)*universalDamageMultiplier*damageMultiplier;
        
         atkTimer = 0;
     }
-
-    
-
-
-    
-
 }
-
-
-    
-    
