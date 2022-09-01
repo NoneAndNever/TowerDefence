@@ -39,7 +39,7 @@ public class TowerArrowBase : TowerBase
         GameObject gameObject = ObjectPool.Instance.GetObject(arrows[0]);
         gameObject.transform.position = transform.position;
         gameObject.GetComponent<Arrow>().SetTarget(enemy.transform)
-            .damage=Random.Range(atkDamageMin,atkDamageMax);
+            .damage=Random.Range(atkDamageMin,atkDamageMax)*universalDamageMultiplier*damageMultiplier;
        
         atkTimer = 0;
     }

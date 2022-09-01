@@ -2,7 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+/*
 public class Movement : MonoBehaviour
 {
     [SerializeField]private PathManager pathManager;
@@ -35,7 +35,7 @@ public class Movement : MonoBehaviour
     
     private void Move()
     {
-        /*Vector2 selfPos = transform.position;
+        Vector2 selfPos = transform.position;
         Vector2 desPos = _path.GetNode(posIndex).position;
         if ((desPos-selfPos).magnitude<0.3f)
         {
@@ -45,7 +45,8 @@ public class Movement : MonoBehaviour
             desPos = _path.GetNode(posIndex).position;
         }
         _dir = (desPos - selfPos).normalized;
-        transform.Translate(_dir*speed*Time.deltaTime);*/
+        transform.Translate(_dir*speed*Time.deltaTime);
+        ////////////////////////////////////////////////
         Vector2 selfPos = _path.GetNode(posIndex).position;
         Vector2 desPos = _path.GetNode(posIndex-1).position;
         if ((desPos-(Vector2)transform.position).magnitude<0.5f)
@@ -59,4 +60,4 @@ public class Movement : MonoBehaviour
         transform.Translate(_dir*speed*Time.deltaTime);
     }
     
-}
+}*/
