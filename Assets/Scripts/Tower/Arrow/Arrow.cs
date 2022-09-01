@@ -60,7 +60,7 @@ public class Arrow : MonoBehaviour
         if ((transform.position - target.position).magnitude > 0.05) return;//如果距离过远则直接返回
         print("碰到敌人");
         target.GetComponent<Attackable>().OnGetDamage(damage,EDamageType.Physical);
-        ObjectPool.Instance.PushObject(gameObject);
+        ObjectPool.GetInstance().PushObject(gameObject);
     }
    
 }

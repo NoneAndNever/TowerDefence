@@ -76,7 +76,7 @@ public class Enemy : MonoBehaviour
         //生命值降为0以下,则把自身推回对象池,等待下次调用
         if (healthPoint<0)
         {
-            ObjectPool.Instance.PushObject(gameObject);
+            ObjectPool.GetInstance().PushObject(gameObject);
         }
     }
 

@@ -4,9 +4,8 @@ using UnityEditor.SceneManagement;
 using UnityEngine;
 using UnityEngine.Experimental.GlobalIllumination;
 
-public class ObjectPool
+public class ObjectPool : BaseManager<ObjectPool>
 {
-    public static ObjectPool Instance => BaseManager<ObjectPool>.GetInstance();
     private Dictionary<string, Queue<GameObject>> objectPool = new Dictionary<string, Queue<GameObject>>();
     private GameObject pool;
 

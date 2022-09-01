@@ -34,7 +34,7 @@ public class TowerArrowBase : TowerBase
     protected override void Atk(Collider2D enemy)    //攻击
     {
         print("开始攻击"+enemy.name);
-        GameObject gameObject = ObjectPool.Instance.GetObject(arrows[0]);
+        GameObject gameObject = ObjectPool.GetInstance().GetObject(arrows[0]);
         gameObject.transform.position = transform.position;
         gameObject.GetComponent<Arrow>().SetTarget(enemy.transform)
             .damage=Random.Range(atkDamageMin,atkDamageMax)*universalDamageMultiplier*damageMultiplier;
