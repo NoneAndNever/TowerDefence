@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2962113651293153001}
   - component: {fileID: 6856628626572264189}
+  - component: {fileID: 3157882518198132064}
   m_Layer: 0
   m_Name: Magicball
   m_TagString: Untagged
@@ -68,9 +69,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingLayerID: 802678229
+  m_SortingLayer: 2
+  m_SortingOrder: 3
   m_Sprite: {fileID: 2668195048401294773, guid: 41f82bee5e451c74a986210b1a8059ca, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -82,3 +83,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &3157882518198132064
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1313253532537637909}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7235dafaefbe4cdbb03cc59cddfa29bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  target: {fileID: 0}
+  damage: 0
+  speed: 2
+  referPoint: {x: 0, y: 0}
+  percent: 0

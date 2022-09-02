@@ -9,13 +9,12 @@ using Random = UnityEngine.Random;
 /// 弓箭轨迹模拟
 /// 使用：直接挂载在一个物体上，物体就会像抛物线一样抛射出去
 /// </summary>
-public class Arrow : MonoBehaviour
+public class Arrow : Shoot
 {
     [SerializeField] private float speed = 2;
-    [SerializeField] private Transform target;
     [SerializeField] private Vector2 referPoint;
     [SerializeField] private float percent;
-    [SerializeField] public float damage;
+
     
     private void OnEnable()
     {
@@ -37,11 +36,11 @@ public class Arrow : MonoBehaviour
         Vector2 nextPoint=TrackCal.Bezier(transform.position, target.position, referPoint, percent);
         Vector2 dir = (nextPoint - (Vector2)transform.position).normalized;
         transform.rotation=Quaternion.AngleAxis(Mathf.Atan2(dir.y,dir.x)*Mathf.Rad2Deg,Vector3.forward);
-        transform.position = nextPoint;
+        transform.position =nextPoint;
     }
 
 
-    public Arrow SetTarget(Transform target)
+    public Arrow SetTargetArrow(Transform target)
     {
         this.target = target;
         Vector2 selfPos = transform.position;
@@ -52,15 +51,4 @@ public class Arrow : MonoBehaviour
         return this;
     }
 
-    /// <summary>
-    /// 判断自身与目标的距离
-    /// </summary>
-    private void IsReachTarget()
-    {
-        if ((transform.position - target.position).magnitude > 0.05) return;//如果距离过远则直接返回
-        print("碰到敌人");
-        target.GetComponent<Attackable>().OnGetDamage(damage,EDamageType.Physical);
-        ObjectPool.GetInstance().PushObject(gameObject);
-    }
-   
 }

@@ -27,7 +27,7 @@ public class TowerArrowBase : TowerBase
             atkTimer += Time.deltaTime;
         else                                    //否则进行攻击检查
             AtkCheck(transform.position,atkRadius*radiusMultiplier);
-        Debug.DrawLine(transform.position,transform.position+Vector3.left * (atkRadius * radiusMultiplier),Color.red,1);
+        //Debug.DrawLine(transform.position,transform.position+Vector3.left * (atkRadius * radiusMultiplier),Color.red,1);
     }
     
 
@@ -36,7 +36,7 @@ public class TowerArrowBase : TowerBase
         print("开始攻击"+enemy.name);
         GameObject gameObject = ObjectPool.GetInstance().GetObject(arrows[0]);
         gameObject.transform.position = transform.position;
-        gameObject.GetComponent<Arrow>().SetTarget(enemy.transform)
+        gameObject.GetComponent<Arrow>().SetTargetArrow(enemy.transform)
             .damage=Random.Range(atkDamageMin,atkDamageMax)*universalDamageMultiplier*damageMultiplier;
        
         atkTimer = 0;

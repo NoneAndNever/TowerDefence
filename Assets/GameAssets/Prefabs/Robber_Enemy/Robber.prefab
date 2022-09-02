@@ -72,9 +72,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 2
+  m_SortingLayerID: 511110481
+  m_SortingLayer: 1
+  m_SortingOrder: 1
   m_Sprite: {fileID: 6097281627153493604, guid: 63f5abd04d1b22e4180e8002633cfa62, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -146,12 +146,12 @@ MonoBehaviour:
   healthPoint: 0
   hpDefault: 20
   pathManager: {fileID: 0}
-  _path:
+  path:
     pointList: []
-  _dir: {x: 0, y: 0}
-  posIndex: 0
+  moveDirection: {x: 0, y: 0}
   speed: 1
-  offset: {x: 0, y: 0}
+  lastPathPoint: {x: 0, y: 0}
+  nextPathPoint: {x: 0, y: 0}
 --- !u!114 &7568196490137992591
 MonoBehaviour:
   m_ObjectHideFlags: 0
