@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EnemySpawnManager : MonoBehaviour
+public class EnemySpawnManager : SingletonAutoMono<EnemySpawnManager>
 {
     [SerializeField] private PathManager PathManager;
     [SerializeField] private List<Vector2> offsets;

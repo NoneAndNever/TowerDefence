@@ -1,26 +1,66 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 
-public class InGameManager : MonoBehaviour
+public class InGameManager : SingletonMono<InGameManager>
 {
-    public int Gold { get; private set; }
-    public int HealthPoint { get; private set; }
-    public int SkillPoint { get; private set; }
-    
-    public int Wave { get; private set; }
+    [SerializeField] private int gold;
+    [SerializeField] private int healthPoint;
+    [SerializeField] private int skillPoint;
 
-    private void Awake()
+    [SerializeField] private TextMeshProUGUI goldText;
+    [SerializeField] private TextMeshProUGUI hpText;
+    [SerializeField] private TextMeshProUGUI spText;
+
+    [SerializeField] private LevelInfo levelInfo;
+    public int Wave { get; set; }
+
+    protected override void Awake()
     {
-        EventCenter.GetInstance().AddListener<int>(EventType.GoldChange,SetGold)
-            .AddListener<int>(EventType.HealthPointChange,SetHealthPoint)
-            .AddListener<int>(EventType.SkillPointChange,SetSkillPoint);
-        
-
+        base.Awake();
+        gold = levelInfo.goldNum;
+        goldText.text = gold.ToString();
+        healthPoint = levelInfo.healthPoint;
+        hpText.text = healthPoint.ToString();
+        skillPoint = levelInfo.skillPoint;
+        spText.text = skillPoint.ToString();
+        Wave = 0;
     }
 
-    private void SetGold(int value) => Gold += value;
-    private void SetHealthPoint(int value) => HealthPoint += value;
-    private void SetSkillPoint(int value) => SkillPoint += value;
+    /// <summary>
+    /// 金币变化
+    /// </summary>
+    /// <param name="delta">花费金额,正数代表增加,负数代表减少</param>
+    public void SetGold(int delta)
+    {
+        gold +=delta;
+        goldText.text = gold.ToString();
+    }
+
+    /// <summary>
+    /// 生命值变化
+    /// </summary>
+    /// <param name="delta">变化量,正数代表增加,负数代表减少</param>
+    public void SetHealthPoint(int delta)
+    {
+        healthPoint += delta;
+        healthPoint = healthPoint < 0 ? 0 : healthPoint;
+        hpText.text = healthPoint.ToString();
+    }
+
+    /// <summary>
+    /// 技能点变化
+    /// </summary>
+    /// <param name="delta">变化量,正数代表增加,负数代表减少</param>
+    public void SetSkillPoint(int delta)
+    {
+        skillPoint += delta;
+        spText.text = skillPoint.ToString();
+    }
+    private void WaveBegin()
+    {
+        Wave++;
+    }
 }

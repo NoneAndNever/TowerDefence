@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PathManager:MonoBehaviour
+public class PathManager:SingletonMono<PathManager>
 {
     public List<Path> pathManager = new List<Path>();
     

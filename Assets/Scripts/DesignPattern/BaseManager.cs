@@ -7,14 +7,14 @@ using UnityEngine;
 /// <typeparam name="T">类型</typeparam>
 public class BaseManager<T> where T : new()
 {
-    private static T _instance;
+    private static T instance;
 
     public static T GetInstance()
     {
-        if (_instance == null)
+        if (instance == null)
         {
-            _instance = new T();
+            instance = new T();
         }
-        return _instance;
+        return instance;
     }
 }

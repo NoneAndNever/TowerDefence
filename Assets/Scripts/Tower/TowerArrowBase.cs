@@ -26,13 +26,14 @@ public class TowerArrowBase : TowerBase
         if (atkTimer<atkSpeed*speedMultiplier)  //如果攻击计时器小于攻击CD则进行CD冷却
             atkTimer += Time.deltaTime;
         else                                    //否则进行攻击检查
-            AtkCheck(transform.position,atkRadius*radiusMultiplier);
+            Atk(AtkCheck(transform.position,atkRadius*radiusMultiplier));
         //Debug.DrawLine(transform.position,transform.position+Vector3.left * (atkRadius * radiusMultiplier),Color.red,1);
     }
     
 
     protected override void Atk(Collider2D enemy)    //攻击
     {
+        if (!enemy) return;
         print("开始攻击"+enemy.name);
         GameObject gameObject = ObjectPool.GetInstance().GetObject(arrows[0]);
         gameObject.transform.position = transform.position;

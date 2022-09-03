@@ -73,7 +73,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 511110481
-  m_SortingLayer: 1
+  m_SortingLayer: 0
   m_SortingOrder: 1
   m_Sprite: {fileID: 6097281627153493604, guid: 63f5abd04d1b22e4180e8002633cfa62, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -145,6 +145,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   healthPoint: 0
   hpDefault: 20
+  magicDefence: 0
+  physicalDefence: 0
+  gold: 5
+  enemyType: 1
   pathManager: {fileID: 0}
   path:
     pointList: []

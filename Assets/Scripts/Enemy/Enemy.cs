@@ -1,13 +1,20 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Diagnostics;
 using UnityEngine;
+using UnityEngine.WSA;
 
 public class Enemy : MonoBehaviour
 {
+
     [Header("基本属性")]
     [SerializeField] private float healthPoint;         //(当前)生命值
-    [SerializeField] private float hpDefault = 20;      //(初始)生命值 等确定后会改为const
+    [SerializeField] private float hpDefault;      //(初始)生命值 等确定后会改为const
+    [SerializeField] private float magicDefence;
+    [SerializeField] private float physicalDefence;
+    [SerializeField] private int gold;
+    [SerializeField] private EEnemyType enemyType;
 
     [Header("移动及路径相关")]
     [SerializeField] private PathManager pathManager;    //路径管理者
@@ -16,9 +23,9 @@ public class Enemy : MonoBehaviour
     [SerializeField] private int speed = 1;              //移动速度
     [SerializeField] private Vector2 lastPathPoint;
     [SerializeField] private Vector2 nextPathPoint;
-    
-    //路径相关属性
-    
+
+    #region 路径相关属性
+
     //距离下一个点的距离
     public float DistanceToNextPoint => ((Vector2)transform.position-nextPathPoint).magnitude;
     
@@ -27,6 +34,9 @@ public class Enemy : MonoBehaviour
     
     //相对默认路径点的偏移坐标
     public Vector2 Offset{get; set; }
+
+    #endregion
+    
 
     #region Mono自带生命周期函数
 
@@ -70,12 +80,18 @@ public class Enemy : MonoBehaviour
     private void GetDamage(float damage, EDamageType damageType)
     {
         //Todo:进行护甲统计及护甲相关Debuff计算,对传进来的伤害进行进一步计算
-        
-        
-        healthPoint -= damage;
-        //生命值降为0以下,则把自身推回对象池,等待下次调用
-        if (healthPoint<0)
+        float defence = damageType switch
         {
+            EDamageType.Physical => physicalDefence,
+            EDamageType.Magic => magicDefence,
+            _ => 0
+        };
+
+        healthPoint -= (damage-defence);
+        //生命值降为0以下,则把自身推回对象池,等待下次调用
+        if (healthPoint<0 && gameObject.activeSelf)
+        {
+            InGameManager.GetInstance().SetGold(+gold);
             ObjectPool.GetInstance().PushObject(gameObject);
         }
     }
@@ -119,7 +135,16 @@ public class Enemy : MonoBehaviour
     //todo :敌人到达终点扣血 
     private void ReachDestination()
     {
-        
+        int damage = enemyType switch
+        {
+            EEnemyType.Summon => 1,
+            EEnemyType.Minion => 1,
+            EEnemyType.Elite => 2,
+            EEnemyType.Boss => 100
+        };
+        InGameManager.GetInstance().SetHealthPoint(-damage);
+        ObjectPool.GetInstance().PushObject(gameObject);
     }
+
     
 }
