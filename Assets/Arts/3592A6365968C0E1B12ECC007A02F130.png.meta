@@ -1,16 +1,22 @@
 fileFormatVersion: 2
-guid: 57a8427357e3e47418c432bc360f414e
+guid: c2222ba357e4dee4fba265ad4df6983d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2175798500285590511
-    second: IMG_0176_0
+      213: -9065307332149530689
+    second: 3592A6365968C0E1B12ECC007A02F130_0
   - first:
-      213: -4151326339947721296
-    second: IMG_0176_1
+      213: 2732684049243688756
+    second: 3592A6365968C0E1B12ECC007A02F130_6
   - first:
-      213: -807568771323887172
-    second: IMG_0176_2
+      213: 3610782201498038462
+    second: 3592A6365968C0E1B12ECC007A02F130_7
+  - first:
+      213: -6879301668745202104
+    second: 3592A6365968C0E1B12ECC007A02F130_9
+  - first:
+      213: -6165024313873839964
+    second: 3592A6365968C0E1B12ECC007A02F130_11
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -100,7 +106,28 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: IMG_0176_0
+      name: 3592A6365968C0E1B12ECC007A02F130_0
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 822
+        width: 131
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfab7fe20f813280800000000000000
+      internalID: -9065307332149530689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3592A6365968C0E1B12ECC007A02F130_6
       rect:
         serializedVersion: 2
         x: 276
@@ -114,14 +141,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 11456a7bac20ec1e0800000000000000
-      internalID: -2175798500285590511
+      spriteID: 43fcb861aa17ce520800000000000000
+      internalID: 2732684049243688756
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: IMG_0176_1
+      name: 3592A6365968C0E1B12ECC007A02F130_7
       rect:
         serializedVersion: 2
         x: 299
@@ -135,20 +162,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0bd81b040b68366c0800000000000000
-      internalID: -4151326339947721296
+      spriteID: eb0f79118431c1230800000000000000
+      internalID: 3610782201498038462
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: IMG_0176_2
+      name: 3592A6365968C0E1B12ECC007A02F130_9
       rect:
         serializedVersion: 2
         x: 309
         y: 317
-        width: 138
-        height: 120
+        width: 132
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5067744, y: 0.44557044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846b0b3949fc780a0800000000000000
+      internalID: -6879301668745202104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3592A6365968C0E1B12ECC007A02F130_11
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 154
+        width: 112
+        height: 111
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -156,8 +204,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cb18a8d2b70fac4f0800000000000000
-      internalID: -807568771323887172
+      spriteID: 4a847ebdc0f617aa0800000000000000
+      internalID: -6165024313873839964
       vertices: []
       indices: 
       edges: []
