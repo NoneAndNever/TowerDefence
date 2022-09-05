@@ -42,7 +42,7 @@ public class TowerMagicBase : TowerBase
         if(!enemy)return;
         print("开始攻击"+enemy.name);
         
-        currentMagicBall.GetComponent<Magicball>().SetTargetMagic(enemy.transform)
+        currentMagicBall.GetComponent<MagicBall>().SetTarget(enemy.transform)
             .damage=Random.Range(atkDamageMin,atkDamageMax)*universalDamageMultiplier*damageMultiplier;
         atkTimer = 0;
     }

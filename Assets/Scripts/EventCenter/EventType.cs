@@ -3,5 +3,6 @@
     GoldChange,
     HealthPointChange,
     SkillPointChange,
-    WaveBegin
+    WaveBegin,
+    EnemyDie
 }

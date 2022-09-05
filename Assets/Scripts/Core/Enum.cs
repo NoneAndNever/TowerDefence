@@ -14,6 +14,9 @@ public class EnumFlagsAttributeDrawer : PropertyDrawer
 }
 #endif
 
+/// <summary>
+/// 人物状态
+/// </summary>
 public enum ECharacterStatus
 {
     Dizzy=1,

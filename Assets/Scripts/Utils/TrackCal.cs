@@ -4,11 +4,11 @@ using UnityEngine;
 
 public static class TrackCal
 {
-    public static Vector2 Bezier(Vector2 selfPos,Vector2 targetPos,Vector2 referPos,float t)  
+    public static Vector3 Bezier(Vector3 selfPos,Vector3 targetPos,Vector3 referPos,float t)  
     {
-        Vector2 selfRef = Vector2.Lerp(selfPos, referPos, t);
-        Vector2 targetRef = Vector2.Lerp(referPos, targetPos, t);
-        Vector2 finalPoint = Vector2.Lerp(selfRef,targetRef,t);
+        Vector3 selfRef = Vector3.Lerp(selfPos, referPos, t);
+        Vector3 targetRef = Vector3.Lerp(referPos, targetPos, t);
+        Vector3 finalPoint = Vector3.Lerp(selfRef,targetRef,t);
         //print("final"+finalPoint);
         
         return finalPoint;

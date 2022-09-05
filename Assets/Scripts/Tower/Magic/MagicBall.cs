@@ -10,10 +10,8 @@ using Random = UnityEngine.Random;
 /// 使用：直接挂载在一个物体上，物体会往上升，再沿直线飞出
 /// </summary>
 
-public class Magicball : Shoot
+public class MagicBall : Shoot<MagicBall>
 {
-    [SerializeField] private float speed = 1;
-    [SerializeField] private Vector2 referPoint;
     [SerializeField] private float percent;
     [SerializeField] private bool isReady;
 
@@ -25,26 +23,32 @@ public class Magicball : Shoot
     
     private void Update()
     {
-        if(isReady) IsReachTarget();
+        //如果设定了目标则判断是否到达目标点
+        if(isReady) IsReachingTarget(EDamageType.Magic);
     }
     
     private void FixedUpdate()
     {
-        if(!isReady) return;
-        if (percent<1)
-        {
-            percent += 0.01f;
-        }
-        Vector3 nextPoint= Vector3.Lerp(transform.position,target.position,percent);
+        //如果没准备好直接返回
+        if (!isReady) return;
+        //准备好了递增percent
+        if (percent<1) percent += 0.01f;
+        //如果目标存在则实时更新目标位置
+        if(target) targetPoint = target.position;
+        //插值计算下一点坐标
+        Vector3 nextPoint= Vector3.Lerp(transform.position,targetPoint,percent);
+        //根据两点决定旋转
         Vector3 dir = (nextPoint - transform.position).normalized;
         transform.rotation=Quaternion.AngleAxis(Mathf.Atan2(dir.y,dir.x)*Mathf.Rad2Deg,Vector3.forward);
+        //设施魔法球位移
         transform.position =nextPoint;
     }
 
-    public Magicball SetTargetMagic(Transform target)
+    public override MagicBall SetTarget(Transform target)
     {
-        this.target = target;
+        base.SetTarget(target);
         isReady = true;
         return this;
     }
+    
 }

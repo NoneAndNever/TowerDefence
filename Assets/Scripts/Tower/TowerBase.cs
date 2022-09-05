@@ -15,13 +15,13 @@ public class TowerBase : MonoBehaviour
     [SerializeField] protected float atkTimer;
 
     [Header("增益相关")] 
-    [SerializeField] protected float damageMultiplier = 1;
-    [SerializeField] protected float radiusMultiplier = 1;
-    [SerializeField] protected float speedMultiplier = 1;
+    [SerializeField] protected float damageMultiplier = 1;      //攻击倍率
+    [SerializeField] protected float radiusMultiplier = 1;      //半径倍率
+    [SerializeField] protected float speedMultiplier = 1;       //速度倍率
     [SerializeField] [EnumFlags] protected ETowerStatus towerStatus;
 
     [Header("敌人")] 
-    [SerializeField]protected ContactFilter2D targetFilter;
+    [SerializeField]protected ContactFilter2D targetFilter;     //目标过滤器
     [SerializeField]protected List<Collider2D> enemies;
     
     protected virtual void Atk(Collider2D enemy){}
@@ -36,7 +36,7 @@ public class TowerBase : MonoBehaviour
     {
         //如果攻击就绪，判断范围内是否存在敌人
         Physics2D.OverlapCircle(pos, radius, targetFilter, enemies);
-
+        
         switch (enemies.Count)
         {
             //不存在则直接返回

@@ -91,7 +91,12 @@ public class Enemy : MonoBehaviour
         //生命值降为0以下,则把自身推回对象池,等待下次调用
         if (healthPoint<0 && gameObject.activeSelf)
         {
+            //todo:广播事件
+            //把自身死亡的信息广播
+            EventCenter.GetInstance().BroadcastEvent<Transform>(EventType.EnemyDie, gameObject.transform);
+            //加金币
             InGameManager.GetInstance().SetGold(+gold);
+            //把自身推回池中
             ObjectPool.GetInstance().PushObject(gameObject);
         }
     }
@@ -131,8 +136,7 @@ public class Enemy : MonoBehaviour
         }
         transform.Translate(moveDirection * (speed * Time.deltaTime));
     }
-
-    //todo :敌人到达终点扣血 
+    
     private void ReachDestination()
     {
         int damage = enemyType switch
