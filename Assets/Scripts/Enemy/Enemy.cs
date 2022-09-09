@@ -21,7 +21,7 @@ public class Enemy : MonoBehaviour
     [SerializeField] private PathManager pathManager;    //路径管理者
     [FormerlySerializedAs("path")] [SerializeField] public PathPoints pathPoints;                   //当前路径
     [SerializeField] private Vector2 moveDirection;      //速度放向
-    [SerializeField] private int speed = 1;              //移动速度
+    [SerializeField] private float speed = 1;              //移动速度
     [SerializeField] private Vector2 lastPathPoint;
     [SerializeField] private Vector2 nextPathPoint;
 

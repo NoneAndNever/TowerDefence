@@ -73,7 +73,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 511110481
-  m_SortingLayer: 0
+  m_SortingLayer: 1
   m_SortingOrder: 1
   m_Sprite: {fileID: 6097281627153493604, guid: 63f5abd04d1b22e4180e8002633cfa62, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -153,7 +153,7 @@ MonoBehaviour:
   path:
     pointList: []
   moveDirection: {x: 0, y: 0}
-  speed: 1
+  speed: 0.39
   lastPathPoint: {x: 0, y: 0}
   nextPathPoint: {x: 0, y: 0}
 --- !u!114 &7568196490137992591

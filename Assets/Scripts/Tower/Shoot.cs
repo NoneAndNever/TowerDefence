@@ -6,8 +6,8 @@ using UnityEngine;
 /// </summary>
 public class Shoot<T> : MonoBehaviour where T : Shoot<T>
 {
-    [SerializeField] public float damage;           //记录投掷物造成的伤害
-    [SerializeField] protected Transform target;    //记录投掷物的目标
+    [SerializeField] public float damage;            //记录投掷物造成的伤害
+    [SerializeField] protected Transform target;     //记录投掷物的目标
     [SerializeField] protected Vector3 targetPoint;  //记录目标的坐标信息，如果目标死亡,则记录目标最终的位置
     
     

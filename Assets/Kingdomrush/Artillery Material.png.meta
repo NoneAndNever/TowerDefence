@@ -1,0 +1,7572 @@
+fileFormatVersion: 2
+guid: b8d77dede372e0948ab3f087a1b2052d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5667904410153625007
+    second: Artillery Material_0
+  - first:
+      213: 8030448660639558156
+    second: Artillery Material_1
+  - first:
+      213: -2786424365416384650
+    second: Artillery Material_2
+  - first:
+      213: -2900066029031499290
+    second: Artillery Material_3
+  - first:
+      213: -4463255748751690928
+    second: Artillery Material_4
+  - first:
+      213: -1832417149547198639
+    second: Artillery Material_5
+  - first:
+      213: -6788411195720519695
+    second: Artillery Material_6
+  - first:
+      213: -6035746956777452810
+    second: Artillery Material_7
+  - first:
+      213: -2675229656163862329
+    second: Artillery Material_8
+  - first:
+      213: -7551352370659346795
+    second: Artillery Material_9
+  - first:
+      213: 6298941804094441403
+    second: Artillery Material_10
+  - first:
+      213: -628205824315038794
+    second: Artillery Material_11
+  - first:
+      213: -4744293505191182444
+    second: Artillery Material_12
+  - first:
+      213: 4024430408616363355
+    second: Artillery Material_13
+  - first:
+      213: 6201994842674512801
+    second: Artillery Material_14
+  - first:
+      213: -1644074814095546902
+    second: Artillery Material_15
+  - first:
+      213: 2242518636946937782
+    second: Artillery Material_16
+  - first:
+      213: -6722055552942384222
+    second: Artillery Material_17
+  - first:
+      213: -5402306539974878733
+    second: Artillery Material_18
+  - first:
+      213: 8109671278064461002
+    second: Artillery Material_19
+  - first:
+      213: -227908832352707816
+    second: Artillery Material_20
+  - first:
+      213: -845270492042711558
+    second: Artillery Material_21
+  - first:
+      213: 696564605138823205
+    second: Artillery Material_22
+  - first:
+      213: -7425176351809574038
+    second: Artillery Material_23
+  - first:
+      213: -877940219713363694
+    second: Artillery Material_24
+  - first:
+      213: -5182760421576238746
+    second: Artillery Material_25
+  - first:
+      213: -5189478335595362228
+    second: Artillery Material_26
+  - first:
+      213: 8508485794227463120
+    second: Artillery Material_27
+  - first:
+      213: -1053379631096991141
+    second: Artillery Material_28
+  - first:
+      213: 2216180373674014822
+    second: Artillery Material_29
+  - first:
+      213: 3727067876847811232
+    second: Artillery Material_30
+  - first:
+      213: 4860425384332048017
+    second: Artillery Material_31
+  - first:
+      213: 3444866934279497707
+    second: Artillery Material_32
+  - first:
+      213: -1675079739086072443
+    second: Artillery Material_33
+  - first:
+      213: -5757257217124773031
+    second: Artillery Material_34
+  - first:
+      213: 6218738431364260387
+    second: Artillery Material_35
+  - first:
+      213: -5649641946301723071
+    second: Artillery Material_36
+  - first:
+      213: 3081043915924624429
+    second: Artillery Material_37
+  - first:
+      213: 4237882312987739160
+    second: Artillery Material_38
+  - first:
+      213: -2627827557244978970
+    second: Artillery Material_39
+  - first:
+      213: 2105404099152814504
+    second: Artillery Material_40
+  - first:
+      213: -2735951990373622852
+    second: Artillery Material_41
+  - first:
+      213: 2823131361470079965
+    second: Artillery Material_42
+  - first:
+      213: 7682090268139028102
+    second: Artillery Material_43
+  - first:
+      213: 3046292093927633087
+    second: Artillery Material_44
+  - first:
+      213: -6982018196151862084
+    second: Artillery Material_45
+  - first:
+      213: 6206589334780821293
+    second: Artillery Material_46
+  - first:
+      213: -4401119961187712744
+    second: Artillery Material_47
+  - first:
+      213: -3058395774747176608
+    second: Artillery Material_48
+  - first:
+      213: 8299699530116553794
+    second: Artillery Material_49
+  - first:
+      213: -2053153676983092034
+    second: Artillery Material_50
+  - first:
+      213: -4641623422916294389
+    second: Artillery Material_51
+  - first:
+      213: 6058981539703594085
+    second: Artillery Material_52
+  - first:
+      213: 6237144402371718497
+    second: Artillery Material_53
+  - first:
+      213: 8730977758866741068
+    second: Artillery Material_54
+  - first:
+      213: 8905423820840176121
+    second: Artillery Material_55
+  - first:
+      213: 3933210197657864558
+    second: Artillery Material_56
+  - first:
+      213: -4528741729232171109
+    second: Artillery Material_57
+  - first:
+      213: 6652282268429714493
+    second: Artillery Material_58
+  - first:
+      213: -364341740366723933
+    second: Artillery Material_59
+  - first:
+      213: -4681175388315322598
+    second: Artillery Material_60
+  - first:
+      213: 6157953167724320185
+    second: Artillery Material_61
+  - first:
+      213: 6593777639742413551
+    second: Artillery Material_62
+  - first:
+      213: 5622608600732231704
+    second: Artillery Material_63
+  - first:
+      213: -487250818831764020
+    second: Artillery Material_64
+  - first:
+      213: -8936636543432609733
+    second: Artillery Material_65
+  - first:
+      213: 3889686189788255900
+    second: Artillery Material_66
+  - first:
+      213: 7907508346178758244
+    second: Artillery Material_67
+  - first:
+      213: -7060260838346426742
+    second: Artillery Material_68
+  - first:
+      213: -5442602453984316251
+    second: Artillery Material_69
+  - first:
+      213: 4729580239697306405
+    second: Artillery Material_70
+  - first:
+      213: 6602978179689274130
+    second: Artillery Material_71
+  - first:
+      213: 4805299310819096159
+    second: Artillery Material_72
+  - first:
+      213: 8919544652980549778
+    second: Artillery Material_73
+  - first:
+      213: 5043995559757021129
+    second: Artillery Material_74
+  - first:
+      213: 3825683002438501315
+    second: Artillery Material_75
+  - first:
+      213: -790298062234595871
+    second: Artillery Material_76
+  - first:
+      213: 5644523896016476150
+    second: Artillery Material_77
+  - first:
+      213: 8143875213351286175
+    second: Artillery Material_78
+  - first:
+      213: -5350104189553489734
+    second: Artillery Material_79
+  - first:
+      213: 2409616933470856410
+    second: Artillery Material_80
+  - first:
+      213: -1620645122920456025
+    second: Artillery Material_81
+  - first:
+      213: 3131934863746007001
+    second: Artillery Material_82
+  - first:
+      213: -5004276167008670091
+    second: Artillery Material_83
+  - first:
+      213: -7801040693757073409
+    second: Artillery Material_84
+  - first:
+      213: 8464598238823481419
+    second: Artillery Material_85
+  - first:
+      213: -4055730530423753556
+    second: Artillery Material_86
+  - first:
+      213: 6085956704272183407
+    second: Artillery Material_87
+  - first:
+      213: 8491852767379090370
+    second: Artillery Material_88
+  - first:
+      213: 6534756198508510087
+    second: Artillery Material_89
+  - first:
+      213: 4248070425076837856
+    second: Artillery Material_90
+  - first:
+      213: -8997582242679058621
+    second: Artillery Material_91
+  - first:
+      213: -123495655476637073
+    second: Artillery Material_92
+  - first:
+      213: -5449557604557100931
+    second: Artillery Material_93
+  - first:
+      213: -7070850384227663244
+    second: Artillery Material_94
+  - first:
+      213: -974860077044861245
+    second: Artillery Material_95
+  - first:
+      213: 297729976863057574
+    second: Artillery Material_96
+  - first:
+      213: 5859642129750114974
+    second: Artillery Material_97
+  - first:
+      213: 5716449735023788843
+    second: Artillery Material_98
+  - first:
+      213: 33362092656092501
+    second: Artillery Material_99
+  - first:
+      213: -3729702381927917886
+    second: Artillery Material_100
+  - first:
+      213: -3688239109057029668
+    second: Artillery Material_101
+  - first:
+      213: 3093562184357314600
+    second: Artillery Material_102
+  - first:
+      213: -7255030270613821090
+    second: Artillery Material_103
+  - first:
+      213: 2802507019321174223
+    second: Artillery Material_104
+  - first:
+      213: 8030395698662127772
+    second: Artillery Material_105
+  - first:
+      213: 7150447624577101683
+    second: Artillery Material_106
+  - first:
+      213: -4340765734084848507
+    second: Artillery Material_107
+  - first:
+      213: -8329701539443812052
+    second: Artillery Material_108
+  - first:
+      213: -7952036860899245917
+    second: Artillery Material_109
+  - first:
+      213: 7225361166436487618
+    second: Artillery Material_110
+  - first:
+      213: -4347562842471116352
+    second: Artillery Material_111
+  - first:
+      213: -3056529797345019442
+    second: Artillery Material_112
+  - first:
+      213: 7969978444825478802
+    second: Artillery Material_113
+  - first:
+      213: 8956953279482295339
+    second: Artillery Material_114
+  - first:
+      213: 5395789388583488713
+    second: Artillery Material_115
+  - first:
+      213: 714810050360981343
+    second: Artillery Material_116
+  - first:
+      213: -314462746394938361
+    second: Artillery Material_117
+  - first:
+      213: -3840376865938006053
+    second: Artillery Material_118
+  - first:
+      213: 1088759672647673488
+    second: Artillery Material_119
+  - first:
+      213: 3686853203148237213
+    second: Artillery Material_120
+  - first:
+      213: -5716271464343287526
+    second: Artillery Material_121
+  - first:
+      213: -2636952839061614148
+    second: Artillery Material_122
+  - first:
+      213: 7559339216760218064
+    second: Artillery Material_123
+  - first:
+      213: 7294281683977114193
+    second: Artillery Material_124
+  - first:
+      213: -8003017678773256688
+    second: Artillery Material_125
+  - first:
+      213: 6881595860649045811
+    second: Artillery Material_126
+  - first:
+      213: 4425139208905659659
+    second: Artillery Material_127
+  - first:
+      213: 3864522746284329460
+    second: Artillery Material_128
+  - first:
+      213: 465644076071458145
+    second: Artillery Material_129
+  - first:
+      213: -2725899368521960408
+    second: Artillery Material_130
+  - first:
+      213: -5455342782905946189
+    second: Artillery Material_131
+  - first:
+      213: -2647326082607436016
+    second: Artillery Material_132
+  - first:
+      213: -730096840278978539
+    second: Artillery Material_133
+  - first:
+      213: -767309615838928077
+    second: Artillery Material_134
+  - first:
+      213: 6752406108067205441
+    second: Artillery Material_135
+  - first:
+      213: 3785355019878021262
+    second: Artillery Material_136
+  - first:
+      213: 650503976952076474
+    second: Artillery Material_137
+  - first:
+      213: -6489472209567315308
+    second: Artillery Material_138
+  - first:
+      213: 6076775723715320169
+    second: Artillery Material_139
+  - first:
+      213: 6122806960226177547
+    second: Artillery Material_140
+  - first:
+      213: -1958462676681621906
+    second: Artillery Material_141
+  - first:
+      213: -9058626876708716759
+    second: Artillery Material_142
+  - first:
+      213: -7191434504012717108
+    second: Artillery Material_143
+  - first:
+      213: -1175658748476132078
+    second: Artillery Material_144
+  - first:
+      213: -1577333782722322970
+    second: Artillery Material_145
+  - first:
+      213: 4666686636071246140
+    second: Artillery Material_146
+  - first:
+      213: -234987332341700695
+    second: Artillery Material_147
+  - first:
+      213: 2137871094585155046
+    second: Artillery Material_148
+  - first:
+      213: -7360735321802525876
+    second: Artillery Material_149
+  - first:
+      213: 6885115263887804249
+    second: Artillery Material_150
+  - first:
+      213: 6234058067942286439
+    second: Artillery Material_151
+  - first:
+      213: 242920499908559546
+    second: Artillery Material_152
+  - first:
+      213: -7673414586002438811
+    second: Artillery Material_153
+  - first:
+      213: 7902360165478159659
+    second: Artillery Material_154
+  - first:
+      213: 4723359250687275491
+    second: Artillery Material_155
+  - first:
+      213: -369353826768564200
+    second: Artillery Material_156
+  - first:
+      213: 8947095772151667903
+    second: Artillery Material_157
+  - first:
+      213: 6133396680454460993
+    second: Artillery Material_158
+  - first:
+      213: -9191904065515981336
+    second: Artillery Material_159
+  - first:
+      213: -7454519515091383029
+    second: Artillery Material_160
+  - first:
+      213: 8715985093338803507
+    second: Artillery Material_161
+  - first:
+      213: -9052851096292129195
+    second: Artillery Material_162
+  - first:
+      213: 9072544525005570784
+    second: Artillery Material_163
+  - first:
+      213: 7093634908001875074
+    second: Artillery Material_164
+  - first:
+      213: -2000108999689667527
+    second: Artillery Material_165
+  - first:
+      213: 3836671702978453357
+    second: Artillery Material_166
+  - first:
+      213: -636217326677974573
+    second: Artillery Material_167
+  - first:
+      213: -1744342128055397012
+    second: Artillery Material_168
+  - first:
+      213: 2418032172852202882
+    second: Artillery Material_169
+  - first:
+      213: 7369361563336126582
+    second: Artillery Material_170
+  - first:
+      213: -2278222512941520106
+    second: Artillery Material_171
+  - first:
+      213: 1734242841773505588
+    second: Artillery Material_172
+  - first:
+      213: 6429551088676517866
+    second: Artillery Material_173
+  - first:
+      213: -8561311296857781359
+    second: Artillery Material_174
+  - first:
+      213: 818565511995466590
+    second: Artillery Material_175
+  - first:
+      213: 3586348208199199902
+    second: Artillery Material_176
+  - first:
+      213: -2799134705135796784
+    second: Artillery Material_177
+  - first:
+      213: -1589252874154566067
+    second: Artillery Material_178
+  - first:
+      213: 8890929051487863320
+    second: Artillery Material_179
+  - first:
+      213: 3401514252866087652
+    second: Artillery Material_180
+  - first:
+      213: -3238437360849591563
+    second: Artillery Material_181
+  - first:
+      213: -1009562467055313459
+    second: Artillery Material_182
+  - first:
+      213: -4941654672105360944
+    second: Artillery Material_183
+  - first:
+      213: 5781723750584509705
+    second: Artillery Material_184
+  - first:
+      213: 3320014417588639625
+    second: Artillery Material_185
+  - first:
+      213: 6536292100623507186
+    second: Artillery Material_186
+  - first:
+      213: 1894126804582872110
+    second: Artillery Material_187
+  - first:
+      213: -4538589229075845879
+    second: Artillery Material_188
+  - first:
+      213: 5533568918542051632
+    second: Artillery Material_189
+  - first:
+      213: 6252117428470011090
+    second: Artillery Material_190
+  - first:
+      213: 6370087732546811307
+    second: Artillery Material_191
+  - first:
+      213: -3963978148514581651
+    second: Artillery Material_192
+  - first:
+      213: 28319970757236147
+    second: Artillery Material_193
+  - first:
+      213: 712145147354965129
+    second: Artillery Material_194
+  - first:
+      213: 2841541745733160938
+    second: Artillery Material_195
+  - first:
+      213: 6554665244655615245
+    second: Artillery Material_196
+  - first:
+      213: -4694918841913765628
+    second: Artillery Material_197
+  - first:
+      213: -4620135994166917690
+    second: Artillery Material_198
+  - first:
+      213: -6471968562090062798
+    second: Artillery Material_199
+  - first:
+      213: -3988257980605171118
+    second: Artillery Material_200
+  - first:
+      213: -2251237048711229477
+    second: Artillery Material_201
+  - first:
+      213: -5923691479462576297
+    second: Artillery Material_202
+  - first:
+      213: 7623050456226802147
+    second: Artillery Material_203
+  - first:
+      213: 3043305888603331214
+    second: Artillery Material_204
+  - first:
+      213: 3343006181149098026
+    second: Artillery Material_205
+  - first:
+      213: -1885578086499064573
+    second: Artillery Material_206
+  - first:
+      213: -1134517239311874470
+    second: Artillery Material_207
+  - first:
+      213: -2862167003398949734
+    second: Artillery Material_208
+  - first:
+      213: 2790800634096133450
+    second: Artillery Material_209
+  - first:
+      213: 5701726130446848711
+    second: Artillery Material_210
+  - first:
+      213: -1914672218697101306
+    second: Artillery Material_211
+  - first:
+      213: 3712636506420503980
+    second: Artillery Material_212
+  - first:
+      213: 3030169226875541176
+    second: Artillery Material_213
+  - first:
+      213: 8794613489095126248
+    second: Artillery Material_214
+  - first:
+      213: 3319573060163405691
+    second: Artillery Material_215
+  - first:
+      213: -2393836771774944208
+    second: Artillery Material_216
+  - first:
+      213: 172164217583763900
+    second: Artillery Material_217
+  - first:
+      213: 2387791081780414484
+    second: Artillery Material_218
+  - first:
+      213: 7993717656691840495
+    second: Artillery Material_219
+  - first:
+      213: 7764641746755284911
+    second: Artillery Material_220
+  - first:
+      213: -3068872878605145737
+    second: Artillery Material_221
+  - first:
+      213: 3240526705966880569
+    second: Artillery Material_222
+  - first:
+      213: -7125331103885635950
+    second: Artillery Material_223
+  - first:
+      213: -6040488729841799304
+    second: Artillery Material_224
+  - first:
+      213: -2385172576030145881
+    second: Artillery Material_225
+  - first:
+      213: -3933802106104670081
+    second: Artillery Material_226
+  - first:
+      213: 4109209231531084060
+    second: Artillery Material_227
+  - first:
+      213: 1118984887253069085
+    second: Artillery Material_228
+  - first:
+      213: 3705725355301670507
+    second: Artillery Material_229
+  - first:
+      213: -8766416789410733552
+    second: Artillery Material_230
+  - first:
+      213: 4535269208151691459
+    second: Artillery Material_231
+  - first:
+      213: 7057619413054774782
+    second: Artillery Material_232
+  - first:
+      213: 6987021952634348770
+    second: Artillery Material_233
+  - first:
+      213: -2621719100466786323
+    second: Artillery Material_234
+  - first:
+      213: -9003690882784074498
+    second: Artillery Material_235
+  - first:
+      213: -409005835043846363
+    second: Artillery Material_236
+  - first:
+      213: -4826680263090819069
+    second: Artillery Material_237
+  - first:
+      213: -1020253484847972958
+    second: Artillery Material_238
+  - first:
+      213: 930793978525671972
+    second: Artillery Material_239
+  - first:
+      213: 7553781060519764133
+    second: Artillery Material_240
+  - first:
+      213: -7756441675984730362
+    second: Artillery Material_241
+  - first:
+      213: -1903301769276192631
+    second: Artillery Material_242
+  - first:
+      213: 6793282901853638359
+    second: Artillery Material_243
+  - first:
+      213: 2480222208730617726
+    second: Artillery Material_244
+  - first:
+      213: 8470885449279167374
+    second: Artillery Material_245
+  - first:
+      213: -3814111922886208062
+    second: Artillery Material_246
+  - first:
+      213: -7518332017946760123
+    second: Artillery Material_247
+  - first:
+      213: -1048110128041566777
+    second: Artillery Material_248
+  - first:
+      213: 1519959269892474638
+    second: Artillery Material_249
+  - first:
+      213: 5455903570752218098
+    second: Artillery Material_250
+  - first:
+      213: -426649927565451457
+    second: Artillery Material_251
+  - first:
+      213: -3829381921878059240
+    second: Artillery Material_252
+  - first:
+      213: -8853112122541804705
+    second: Artillery Material_253
+  - first:
+      213: -250698659715129061
+    second: Artillery Material_254
+  - first:
+      213: -7768767426535526483
+    second: Artillery Material_255
+  - first:
+      213: -7825534463375113707
+    second: Artillery Material_256
+  - first:
+      213: -4737426692149994341
+    second: Artillery Material_257
+  - first:
+      213: 3626263716771912205
+    second: Artillery Material_258
+  - first:
+      213: 1436862201672105162
+    second: Artillery Material_259
+  - first:
+      213: 8572995942839066522
+    second: Artillery Material_260
+  - first:
+      213: -5715884526788311091
+    second: Artillery Material_261
+  - first:
+      213: 4606483379910469013
+    second: Artillery Material_262
+  - first:
+      213: 3970133488116458317
+    second: Artillery Material_263
+  - first:
+      213: 5456805783938549042
+    second: Artillery Material_264
+  - first:
+      213: -3287427331777925399
+    second: Artillery Material_265
+  - first:
+      213: -9108432111633704532
+    second: Artillery Material_266
+  - first:
+      213: 8291563308201804254
+    second: Artillery Material_267
+  - first:
+      213: 4341181438612605741
+    second: Artillery Material_268
+  - first:
+      213: -1851240605150228705
+    second: Artillery Material_269
+  - first:
+      213: 6121148641455122316
+    second: Artillery Material_270
+  - first:
+      213: 2659375519506813752
+    second: Artillery Material_271
+  - first:
+      213: 3409252005545150551
+    second: Artillery Material_272
+  - first:
+      213: 6770620335753465502
+    second: Artillery Material_273
+  - first:
+      213: -6025643063951155587
+    second: Artillery Material_274
+  - first:
+      213: 3297985719492114731
+    second: Artillery Material_275
+  - first:
+      213: -6749894906804163083
+    second: Artillery Material_276
+  - first:
+      213: 603727976341177822
+    second: Artillery Material_277
+  - first:
+      213: 1279239419446664413
+    second: Artillery Material_278
+  - first:
+      213: -7241070909781291372
+    second: Artillery Material_279
+  - first:
+      213: 6029809358068639553
+    second: Artillery Material_280
+  - first:
+      213: 9014957646976995489
+    second: Artillery Material_281
+  - first:
+      213: 7633133838728530971
+    second: Artillery Material_282
+  - first:
+      213: -8761383270046395722
+    second: Artillery Material_283
+  - first:
+      213: 6731413998661888487
+    second: Artillery Material_284
+  - first:
+      213: 6682884531668225906
+    second: Artillery Material_285
+  - first:
+      213: -4617914202392082219
+    second: Artillery Material_286
+  - first:
+      213: 2954585194501834063
+    second: Artillery Material_287
+  - first:
+      213: 2217896040576711002
+    second: Artillery Material_288
+  - first:
+      213: 3364252572110405687
+    second: Artillery Material_289
+  - first:
+      213: -7266135393773359906
+    second: Artillery Material_290
+  - first:
+      213: 1143598149350483332
+    second: Artillery Material_291
+  - first:
+      213: -8482451808917385271
+    second: Artillery Material_292
+  - first:
+      213: 5692858668070485079
+    second: Artillery Material_293
+  - first:
+      213: 5223063705919869975
+    second: Artillery Material_294
+  - first:
+      213: 1299416711495889181
+    second: Artillery Material_295
+  - first:
+      213: 1325102340357144104
+    second: Artillery Material_296
+  - first:
+      213: -2674283297568890665
+    second: Artillery Material_297
+  - first:
+      213: -7954392903576573353
+    second: Artillery Material_298
+  - first:
+      213: 3193586736897663170
+    second: Artillery Material_299
+  - first:
+      213: -7825510471384848455
+    second: Artillery Material_300
+  - first:
+      213: 1631247537486682714
+    second: Artillery Material_301
+  - first:
+      213: -6943456661839665963
+    second: Artillery Material_302
+  - first:
+      213: -832251974122831170
+    second: Artillery Material_303
+  - first:
+      213: -7934122466961235422
+    second: Artillery Material_304
+  - first:
+      213: -478253475093116496
+    second: Artillery Material_305
+  - first:
+      213: -1395960757213711802
+    second: Artillery Material_306
+  - first:
+      213: 1080031048016157990
+    second: Artillery Material_307
+  - first:
+      213: -3597469258065472820
+    second: Artillery Material_308
+  - first:
+      213: 3897890279034209641
+    second: Artillery Material_309
+  - first:
+      213: 995716202469579101
+    second: Artillery Material_310
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Artillery Material_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 948
+        width: 121
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a5ce308fe8751b0800000000000000
+      internalID: -5667904410153625007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 943
+        width: 121
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0aae6c7282e17f60800000000000000
+      internalID: 8030448660639558156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_2
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 932
+        width: 120
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677fcd18dc1a459d0800000000000000
+      internalID: -2786424365416384650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_3
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 912
+        width: 140
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e95662df45e0c7d0800000000000000
+      internalID: -2900066029031499290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_4
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 960
+        width: 117
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0537fe93b845f02c0800000000000000
+      internalID: -4463255748751690928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_5
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1004
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157c7e0af42f196e0800000000000000
+      internalID: -1832417149547198639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_6
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1006
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff2bc9ebf7bac1a0800000000000000
+      internalID: -6788411195720519695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_7
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1002
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa822f1f18bc3ca0800000000000000
+      internalID: -6035746956777452810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_8
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 975
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c833cb3dccafdad0800000000000000
+      internalID: -2675229656163862329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_9
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 975
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596bb051705343790800000000000000
+      internalID: -7551352370659346795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_10
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 1007
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb748e592365a6750800000000000000
+      internalID: 6298941804094441403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_11
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1000
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3eed3912a2847f0800000000000000
+      internalID: -628205824315038794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_12
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 887
+        width: 140
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ff2e08132e82eb0800000000000000
+      internalID: -4744293505191182444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_13
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 906
+        width: 140
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55cbd06226a9d730800000000000000
+      internalID: 4024430408616363355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_14
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 975
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a34b682379e11650800000000000000
+      internalID: 6201994842674512801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_15
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 913
+        width: 141
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae52ba1daa21f29e0800000000000000
+      internalID: -1644074814095546902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_16
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 990
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b75a65a1d60f1f10800000000000000
+      internalID: 2242518636946937782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_17
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 899
+        width: 73
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab5d6ee61676b2a0800000000000000
+      internalID: -6722055552942384222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_18
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 955
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9170513d62705b0800000000000000
+      internalID: -5402306539974878733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_19
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 981
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4683e7f075b8070800000000000000
+      internalID: 8109671278064461002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_20
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 973
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b517edf1e46dcf0800000000000000
+      internalID: -227908832352707816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_21
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 948
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdaca647fef444f0800000000000000
+      internalID: -845270492042711558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_22
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 883
+        width: 120
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528e86c51d1baa900800000000000000
+      internalID: 696564605138823205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_23
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 874
+        width: 95
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b62c3c27974f890800000000000000
+      internalID: -7425176351809574038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_24
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 961
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211e4fd850ee0d3f0800000000000000
+      internalID: -877940219713363694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_25
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 966
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6699ef32bd22318b0800000000000000
+      internalID: -5182760421576238746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_26
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 937
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48c045e2f44bf7b0800000000000000
+      internalID: -5189478335595362228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_27
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 943
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3a26dffb6341670800000000000000
+      internalID: 8508485794227463120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_28
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 933
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52f4da7ec4a161f0800000000000000
+      internalID: -1053379631096991141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_29
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 836
+        width: 90
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668380bde4471ce10800000000000000
+      internalID: 2216180373674014822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 806
+        width: 140
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa7845bc7439b330800000000000000
+      internalID: 3727067876847811232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_31
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 938
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196376aa223b37340800000000000000
+      internalID: 4860425384332048017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_32
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 932
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7e73c9930aecf20800000000000000
+      internalID: 3444866934279497707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_33
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 906
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585125d2adbe0c8e0800000000000000
+      internalID: -1675079739086072443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_34
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 933
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95359b4701d1a10b0800000000000000
+      internalID: -5757257217124773031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_35
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 901
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3226980b7a56d4650800000000000000
+      internalID: 6218738431364260387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_36
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 845
+        width: 120
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e0a8a35907891b0800000000000000
+      internalID: -5649641946301723071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_37
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 802
+        width: 120
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24d0121e1112ca20800000000000000
+      internalID: 3081043915924624429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_38
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 899
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8148b89a28bffca30800000000000000
+      internalID: 4237882312987739160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_39
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 800
+        width: 120
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e83e6f62c4188bd0800000000000000
+      internalID: -2627827557244978970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_40
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 782
+        width: 140
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1a7ae8fd5e73d10800000000000000
+      internalID: 2105404099152814504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_41
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 868
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbd1431922f70ad0800000000000000
+      internalID: -2735951990373622852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_42
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 811
+        width: 140
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd360b20407cd2720800000000000000
+      internalID: 2823131361470079965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_43
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 823
+        width: 141
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e79ecb5644c9a60800000000000000
+      internalID: 7682090268139028102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_44
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 888
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb033acf48a964a20800000000000000
+      internalID: 3046292093927633087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_45
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 881
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcfd036173ea1f90800000000000000
+      internalID: -6982018196151862084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_46
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 767
+        width: 140
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fb656bd1c322650800000000000000
+      internalID: 6206589334780821293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_47
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 791
+        width: 120
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8118683a6b41ce2c0800000000000000
+      internalID: -4401119961187712744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_48
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 872
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06193a73f356e85d0800000000000000
+      internalID: -3058395774747176608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_49
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 851
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cd21bbfb47e2370800000000000000
+      internalID: 8299699530116553794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcb22edb9bb183e0800000000000000
+      internalID: -2053153676983092034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_51
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 861
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0901f7d614a59fb0800000000000000
+      internalID: -4641623422916294389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_52
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 851
+        width: 49
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c9ea6cb93d51450800000000000000
+      internalID: 6058981539703594085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_53
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 863
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16dae24c9c9ce8650800000000000000
+      internalID: 6237144402371718497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_54
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 858
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c479613530aaa2970800000000000000
+      internalID: 8730977758866741068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_55
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 823
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f90b7738cb669b70800000000000000
+      internalID: 8905423820840176121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_56
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 852
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e694752f5d1959630800000000000000
+      internalID: 3933210197657864558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_57
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 852
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fc0ad346da621c0800000000000000
+      internalID: -4528741729232171109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_58
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 847
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3402635a77a15c50800000000000000
+      internalID: 6652282268429714493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_59
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 818
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a408941e1991faf0800000000000000
+      internalID: -364341740366723933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_60
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 814
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17f92849cf190fb0800000000000000
+      internalID: -4681175388315322598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_61
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 745
+        width: 95
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b513b1a7c1757550800000000000000
+      internalID: 6157953167724320185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_62
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 821
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea92c8f3ddc18b50800000000000000
+      internalID: 6593777639742413551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_63
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 842
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81863b58bb4870e40800000000000000
+      internalID: 5622608600732231704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_64
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 842
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5b30b36ffec39f0800000000000000
+      internalID: -487250818831764020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_65
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 822
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30bced7960baf380800000000000000
+      internalID: -8936636543432609733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_66
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 806
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96521e2bf0faf530800000000000000
+      internalID: 3889686189788255900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_67
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 730
+        width: 120
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466eb60f1fc1dbd60800000000000000
+      internalID: 7907508346178758244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_68
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 716
+        width: 140
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8672c4ac2ae40e90800000000000000
+      internalID: -7060260838346426742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_69
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 733
+        width: 141
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4789c77edf774b0800000000000000
+      internalID: -5442602453984316251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_70
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 713
+        width: 90
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5236ddb6b28d2a140800000000000000
+      internalID: 4729580239697306405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_71
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 809
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bd80c9bad72ab50800000000000000
+      internalID: 6602978179689274130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_72
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 802
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f563dcc734adfa240800000000000000
+      internalID: 4805299310819096159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_73
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 787
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298f327aa9698cb70800000000000000
+      internalID: 8919544652980549778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_74
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 776
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cff6f3cc3fdff540800000000000000
+      internalID: 5043995559757021129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_75
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 788
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3c89fdb6e871530800000000000000
+      internalID: 3825683002438501315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_76
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 773
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edc3dd791c4805f0800000000000000
+      internalID: -790298062234595871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_77
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 785
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f71444d390655e40800000000000000
+      internalID: 5644523896016476150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_78
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 667
+        width: 140
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9579e2cb5bd40170800000000000000
+      internalID: 8143875213351286175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_79
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 699
+        width: 120
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8c55ee59c90c5b0800000000000000
+      internalID: -5350104189553489734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_80
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 771
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4eb4495dda07120800000000000000
+      internalID: 2409616933470856410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_81
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 786
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a06b55e8df4289e0800000000000000
+      internalID: -1620645122920456025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_82
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 690
+        width: 73
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dffd353a2ed67b20800000000000000
+      internalID: 3131934863746007001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 671
+        width: 140
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57eae73075d3d8ab0800000000000000
+      internalID: -5004276167008670091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_84
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 675
+        width: 120
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff72e3a12d22db390800000000000000
+      internalID: -7801040693757073409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_85
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 652
+        width: 140
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b408877304b487570800000000000000
+      internalID: 8464598238823481419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_86
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 760
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4b26d129627b7c0800000000000000
+      internalID: -4055730530423753556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_87
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 753
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60fc84b069a57450800000000000000
+      internalID: 6085956704272183407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_88
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 762
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb6c84a91f19d570800000000000000
+      internalID: 8491852767379090370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_89
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 732
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bb1e1d32e10ba50800000000000000
+      internalID: 6534756198508510087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_90
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 753
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed2c8b5b8d24fa30800000000000000
+      internalID: 4248070425076837856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_91
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 753
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f80cb1f9a222380800000000000000
+      internalID: -8997582242679058621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_92
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 751
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62d20c0b51494ef0800000000000000
+      internalID: -123495655476637073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_93
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 722
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78685d4b384f54b0800000000000000
+      internalID: -5449557604557100931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_94
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 731
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4720d2cd90b4fdd90800000000000000
+      internalID: -7070850384227663244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_95
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 716
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6f70acce99872f0800000000000000
+      internalID: -974860077044861245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_96
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 739
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a668e526dfb12400800000000000000
+      internalID: 297729976863057574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_97
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 690
+        width: 109
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e924ba6a871a15150800000000000000
+      internalID: 5859642129750114974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_98
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 690
+        width: 121
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2308783fb8e45f40800000000000000
+      internalID: 5716449735023788843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_99
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 738
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555eab185a6867000800000000000000
+      internalID: 33362092656092501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_100
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 731
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c61247c17f6d3cc0800000000000000
+      internalID: -3729702381927917886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_101
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 732
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9d3f9421eb0dcc0800000000000000
+      internalID: -3688239109057029668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_102
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 722
+        width: 49
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82003319a6a8eea20800000000000000
+      internalID: 3093562184357314600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_103
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 729
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e596b5d5864f05b90800000000000000
+      internalID: -7255030270613821090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 698
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc86d27294184e620800000000000000
+      internalID: 2802507019321174223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_105
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 642
+        width: 140
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98b4905752b17f60800000000000000
+      internalID: 8030395698662127772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_106
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 614
+        width: 140
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f24f7da3e7b3360800000000000000
+      internalID: 7150447624577101683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_107
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 643
+        width: 141
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5845fae209082c3c0800000000000000
+      internalID: -4340765734084848507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_108
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 723
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c295d602594f66c80800000000000000
+      internalID: -8329701539443812052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_109
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 721
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0c9415b90b4a190800000000000000
+      internalID: -7952036860899245917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_110
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 621
+        width: 140
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1595303b3a54460800000000000000
+      internalID: 7225361166436487618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_111
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 624
+        width: 67
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c152df01aa5aa3c0800000000000000
+      internalID: -4347562842471116352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_112
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 694
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec97adfe7560595d0800000000000000
+      internalID: -3056529797345019442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_113
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 712
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296c7573b2d0b9e60800000000000000
+      internalID: 7969978444825478802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_114
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 704
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24ff4d3d8d7d4c70800000000000000
+      internalID: 8956953279482295339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_115
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 607
+        width: 120
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc475d5cd1b1ea40800000000000000
+      internalID: 5395789388583488713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_116
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 671
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5735ad14f38be900800000000000000
+      internalID: 714810050360981343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_117
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 586
+        width: 95
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704390a5ccdc2abf0800000000000000
+      internalID: -314462746394938361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_118
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 678
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf132e669d34bac0800000000000000
+      internalID: -3840376865938006053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_119
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 692
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0966fed572d0c1f00800000000000000
+      internalID: 1088759672647673488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_120
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 697
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9969a854755a2330800000000000000
+      internalID: 3686853203148237213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_121
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 693
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19cd18a369bba0b0800000000000000
+      internalID: -5716271464343287526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_122
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 639
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb156423d59a76bd0800000000000000
+      internalID: -2636952839061614148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_123
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 671
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d12caf67fa28e860800000000000000
+      internalID: 7559339216760218064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_124
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 664
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15218197b8e7a3560800000000000000
+      internalID: 7294281683977114193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_125
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 669
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e7c8da2d19fe090800000000000000
+      internalID: -8003017678773256688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_126
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 660
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fe8c999f6508f50800000000000000
+      internalID: 6881595860649045811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_127
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 623
+        width: 125
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0599744aa0496d30800000000000000
+      internalID: 4425139208905659659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_128
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 623
+        width: 125
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9c1be66fa81a530800000000000000
+      internalID: 3864522746284329460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_129
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 623
+        width: 117
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1651102f1dc467600800000000000000
+      internalID: 465644076071458145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_130
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 653
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82479cd77f8ab2ad0800000000000000
+      internalID: -2725899368521960408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_131
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 665
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf66e084aaba44b0800000000000000
+      internalID: -5455342782905946189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_132
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 631
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fae8934fec24bd0800000000000000
+      internalID: -2647326082607436016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_133
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 534
+        width: 140
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510598fbacc2ed5f0800000000000000
+      internalID: -730096840278978539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_134
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 638
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333ed2348f7f955f0800000000000000
+      internalID: -767309615838928077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_135
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 641
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141168a549d55bd50800000000000000
+      internalID: 6752406108067205441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_136
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 522
+        width: 140
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88329cb558488430800000000000000
+      internalID: 3785355019878021262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_137
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 630
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab81537abed070900800000000000000
+      internalID: 650503976952076474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_138
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 638
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a88f87863c0f5a0800000000000000
+      internalID: -6489472209567315308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_139
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 623
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969d4c7135b055450800000000000000
+      internalID: 6076775723715320169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_140
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 646
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0212948d7498f450800000000000000
+      internalID: 6122806960226177547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 543
+        width: 140
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ef78a629422d4e0800000000000000
+      internalID: -1958462676681621906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_142
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 540
+        width: 140
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f78fca9da494280800000000000000
+      internalID: -9058626876708716759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_143
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 516
+        width: 140
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3a5d2ab64e23c90800000000000000
+      internalID: -7191434504012717108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_144
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 587
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215ffffd8983fafe0800000000000000
+      internalID: -1175658748476132078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_145
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 526
+        width: 140
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eddc9c184f2c1ae0800000000000000
+      internalID: -1577333782722322970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_146
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 515
+        width: 120
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39d61535c663c040800000000000000
+      internalID: 4666686636071246140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_147
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 538
+        width: 95
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a76e0924482dbcf0800000000000000
+      internalID: -234987332341700695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_148
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 596
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edd2500f6e3bad10800000000000000
+      internalID: 2137871094585155046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_149
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 591
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c433a42493a69d990800000000000000
+      internalID: -7360735321802525876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_150
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 589
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95707a58ad7dc8f50800000000000000
+      internalID: 6885115263887804249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_151
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 542
+        width: 143
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764abd888c2d38650800000000000000
+      internalID: 6234058067942286439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_152
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 542
+        width: 142
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2c5b958e60f5300800000000000000
+      internalID: 242920499908559546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_153
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 542
+        width: 142
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565060be61e828590800000000000000
+      internalID: -7673414586002438811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_154
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 600
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25d586b3b2daad60800000000000000
+      internalID: 7902360165478159659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_155
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 593
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e135cb863ebc8140800000000000000
+      internalID: 4723359250687275491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_156
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 594
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8105707c6aacfdaf0800000000000000
+      internalID: -369353826768564200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_157
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 493
+        width: 67
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcdf7673387a2c70800000000000000
+      internalID: 8947095772151667903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_158
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 586
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1465c05e8c33e1550800000000000000
+      internalID: 6133396680454460993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_159
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 584
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5737504fbcf6080800000000000000
+      internalID: -9191904065515981336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_160
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 563
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0dc2cb2ff93c8890800000000000000
+      internalID: -7454519515091383029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_161
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 497
+        width: 140
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d2f0c534665f870800000000000000
+      internalID: 8715985093338803507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_162
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 458
+        width: 95
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556800954efcd5280800000000000000
+      internalID: -9052851096292129195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_163
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 575
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e24fd55d2728ed70800000000000000
+      internalID: 9072544525005570784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_164
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 538
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28433c97d57a17260800000000000000
+      internalID: 7093634908001875074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_165
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 549
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c7f69367f2e34e0800000000000000
+      internalID: -2000108999689667527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_166
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 554
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fd2d716989e3530800000000000000
+      internalID: 3836671702978453357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_167
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 554
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1296356b3bb27f0800000000000000
+      internalID: -636217326677974573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_168
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 559
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c655282931adac7e0800000000000000
+      internalID: -1744342128055397012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_169
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 550
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d425e23739e8120800000000000000
+      internalID: 2418032172852202882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_170
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 547
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670311c1c4b354660800000000000000
+      internalID: 7369361563336126582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_171
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 535
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ba2dce1b02260e0800000000000000
+      internalID: -2278222512941520106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_172
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 540
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c7c2a1da4411810800000000000000
+      internalID: 1734242841773505588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_173
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 542
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae73ac166aa5a3950800000000000000
+      internalID: 6429551088676517866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 140
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bc04b3cbc103980800000000000000
+      internalID: -8561311296857781359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_175
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 533
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5320e70ff02c5b00800000000000000
+      internalID: 818565511995466590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_176
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 532
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c629ea1b445c130800000000000000
+      internalID: 3586348208199199902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_177
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 530
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddb9ede0d97729d0800000000000000
+      internalID: -2799134705135796784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_178
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 529
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e9fb16ee6d1f9e0800000000000000
+      internalID: -1589252874154566067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_179
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 513
+        width: 47
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812822dbddce26b70800000000000000
+      internalID: 8890929051487863320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_180
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 518
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eae284e03b943f20800000000000000
+      internalID: 3401514252866087652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_181
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 507
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2e437d062ce03d0800000000000000
+      internalID: -3238437360849591563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_182
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 457
+        width: 142
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdd99cf8405df1f0800000000000000
+      internalID: -1009562467055313459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_183
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 457
+        width: 142
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1b28af147bb6bb0800000000000000
+      internalID: -4941654672105360944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_184
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 457
+        width: 143
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90567074e1fcc3050800000000000000
+      internalID: 5781723750584509705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_185
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 457
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987db89c58f031e20800000000000000
+      internalID: 3320014417588639625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_186
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 496
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe1bd5e80395ba50800000000000000
+      internalID: 6536292100623507186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_187
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 401
+        width: 140
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2435b21b4a494a10800000000000000
+      internalID: 1894126804582872110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_188
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 392
+        width: 140
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d25838421b301c0800000000000000
+      internalID: -4538589229075845879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_189
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 500
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03967d10d9f2bcc40800000000000000
+      internalID: 5533568918542051632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_190
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 431
+        width: 140
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4dbf11dabf3c650800000000000000
+      internalID: 6252117428470011090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_191
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 420
+        width: 140
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5b686ea09176850800000000000000
+      internalID: 6370087732546811307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_192
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 512
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63b06040ee1df8c0800000000000000
+      internalID: -3963978148514581651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_193
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 508
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5d8050ddc946000800000000000000
+      internalID: 28319970757236147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_194
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 398
+        width: 140
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9846c980d3c02e900800000000000000
+      internalID: 712145147354965129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_195
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 387
+        width: 140
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef4ed0a92f2f6720800000000000000
+      internalID: 2841541745733160938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_196
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 470
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dfb49df49d6fa50800000000000000
+      internalID: 6554665244655615245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_197
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 403
+        width: 95
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4011172203c48deb0800000000000000
+      internalID: -4694918841913765628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_198
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 460
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c54fa5bacaf1efb0800000000000000
+      internalID: -4620135994166917690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_199
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 461
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c402bf1e2fe26a0800000000000000
+      internalID: -6471968562090062798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_200
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 380
+        width: 140
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a79615f7cd6a8c0800000000000000
+      internalID: -3988257980605171118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_201
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 465
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf4e5ee4dff1c0e0800000000000000
+      internalID: -2251237048711229477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_202
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 463
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fff970cf1dacda0800000000000000
+      internalID: -5923691479462576297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_203
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 370
+        width: 140
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9274450048ac960800000000000000
+      internalID: 7623050456226802147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_204
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 458
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a5e01e49efb3a20800000000000000
+      internalID: 3043305888603331214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_205
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 403
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20c355e86eb46e20800000000000000
+      internalID: 3343006181149098026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_206
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 398
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30566f578b415d5e0800000000000000
+      internalID: -1885578086499064573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_207
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 329
+        width: 140
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56424fe4926140f0800000000000000
+      internalID: -1134517239311874470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_208
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 325
+        width: 140
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94bf8a564a8748d0800000000000000
+      internalID: -2862167003398949734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_209
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 400
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a452c32f36aeab620800000000000000
+      internalID: 2790800634096133450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_210
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 370
+        width: 143
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2d8d3e4b9902f40800000000000000
+      internalID: 5701726130446848711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_211
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 370
+        width: 143
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600104fe2c7bd65e0800000000000000
+      internalID: -1914672218697101306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_212
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 370
+        width: 142
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca567517b3fe58330800000000000000
+      internalID: 3712636506420503980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_213
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 370
+        width: 142
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b69c397bd25d0a20800000000000000
+      internalID: 3030169226875541176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_214
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 376
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecaf5a5f5ebc0a70800000000000000
+      internalID: 8794613489095126248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_215
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 387
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b770ff04c1e711e20800000000000000
+      internalID: 3319573060163405691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_216
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 368
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c2610a32267ced0800000000000000
+      internalID: -2393836771774944208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_217
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 381
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb10d189176a36200800000000000000
+      internalID: 172164217583763900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_218
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 261
+        width: 140
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4180e5b7653232120800000000000000
+      internalID: 2387791081780414484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_219
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 262
+        width: 120
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe592e13bd36fee60800000000000000
+      internalID: 7993717656691840495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_220
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 377
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf6483a78c81cb60800000000000000
+      internalID: 7764641746755284911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_221
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 378
+        width: 47
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779e8e1606c2965d0800000000000000
+      internalID: -3068872878605145737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_222
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 383
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937925abed9a8fc20800000000000000
+      internalID: 3240526705966880569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_223
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 258
+        width: 140
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ecad5dc1dbd1d90800000000000000
+      internalID: -7125331103885635950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_224
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 371
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f670c018fdb2ca0800000000000000
+      internalID: -6040488729841799304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_225
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 374
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a248b5ed2a26eed0800000000000000
+      internalID: -2385172576030145881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_226
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 281
+        width: 120
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7892f0a3d35869c0800000000000000
+      internalID: -3933802106104670081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_227
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 373
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c198a294608d60930800000000000000
+      internalID: 4109209231531084060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_228
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 367
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1defb983de678f00800000000000000
+      internalID: 1118984887253069085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_229
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 364
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e0aeda3916d6330800000000000000
+      internalID: 3705725355301670507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_230
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 280
+        width: 140
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0122722606e675680800000000000000
+      internalID: -8766416789410733552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_231
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 280
+        width: 140
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c016a0e05380fe30800000000000000
+      internalID: 4535269208151691459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_232
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 280
+        width: 140
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdd70b9673b1f160800000000000000
+      internalID: 7057619413054774782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_233
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 280
+        width: 140
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e460a47273e6f060800000000000000
+      internalID: 6987021952634348770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_234
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 280
+        width: 140
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def02db5e58cd9bd0800000000000000
+      internalID: -2621719100466786323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_235
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 140
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef46b3088d67c0380800000000000000
+      internalID: -9003690882784074498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_236
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 263
+        width: 140
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527462b2c5be25af0800000000000000
+      internalID: -409005835043846363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_237
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 285
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3003512afdf240db0800000000000000
+      internalID: -4826680263090819069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_238
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 256
+        width: 120
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad38ce6cd457d1f0800000000000000
+      internalID: -1020253484847972958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_239
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 279
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42268112138daec00800000000000000
+      internalID: 930793978525671972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_240
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 223
+        width: 140
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0aa575adb64d860800000000000000
+      internalID: 7553781060519764133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_241
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 220
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60705ed14659b5490800000000000000
+      internalID: -7756441675984730362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_242
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 304
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9888bedff1d1695e0800000000000000
+      internalID: -1903301769276192631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_243
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 267
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de88bf8ec6964e50800000000000000
+      internalID: 6793282901853638359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_244
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 263
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e775c6345f48b6220800000000000000
+      internalID: 2480222208730617726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_245
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 243
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b5f497f61ae8570800000000000000
+      internalID: 8470885449279167374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_246
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 189
+        width: 120
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c519c60a6d811bc0800000000000000
+      internalID: -3814111922886208062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_247
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 189
+        width: 142
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c66de0dd489a790800000000000000
+      internalID: -7518332017946760123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_248
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 189
+        width: 142
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdd794446d5471f0800000000000000
+      internalID: -1048110128041566777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_249
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 189
+        width: 142
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07c00327eaf71510800000000000000
+      internalID: 1519959269892474638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_250
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 189
+        width: 140
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3a877146347bb40800000000000000
+      internalID: 5455903570752218098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_251
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 189
+        width: 140
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fd300c62c341af0800000000000000
+      internalID: -426649927565451457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_252
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 261
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817d7255e6d4bdac0800000000000000
+      internalID: -3829381921878059240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_253
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 240
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53f03b2e6d632580800000000000000
+      internalID: -8853112122541804705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_254
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 251
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b116302b5e6558cf0800000000000000
+      internalID: -250698659715129061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_255
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 233
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf69beaf2bcf2490800000000000000
+      internalID: -7768767426535526483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_256
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 246
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51203f4fddd166390800000000000000
+      internalID: -7825534463375113707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_257
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 232
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c12f00687414eb0800000000000000
+      internalID: -4737426692149994341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_258
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 244
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ad31c33a3135230800000000000000
+      internalID: 3626263716771912205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_259
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 132
+        width: 120
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accf9d14f82c0f310800000000000000
+      internalID: 1436862201672105162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_260
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 242
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f99c9636669f670800000000000000
+      internalID: 8572995942839066522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_261
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 240
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc781a39e491da0b0800000000000000
+      internalID: -5715884526788311091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_262
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 189
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595ed435a348def30800000000000000
+      internalID: 4606483379910469013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_263
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 140
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43601e6f5fb81730800000000000000
+      internalID: 3970133488116458317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_264
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 131
+        width: 140
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23544f7f2f77abb40800000000000000
+      internalID: 5456805783938549042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_265
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 134
+        width: 120
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee67706246b062d0800000000000000
+      internalID: -3287427331777925399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_266
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 129
+        width: 140
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9df45c049589180800000000000000
+      internalID: -9108432111633704532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_267
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 128
+        width: 141
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed10802f5ec811370800000000000000
+      internalID: 8291563308201804254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_268
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 115
+        width: 140
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b06029489fe3c30800000000000000
+      internalID: 4341181438612605741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_269
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 114
+        width: 120
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fcd385a721f46e0800000000000000
+      internalID: -1851240605150228705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_270
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 212
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c872c471240b2f450800000000000000
+      internalID: 6121148641455122316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_271
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 157
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833d29ce1fff7e420800000000000000
+      internalID: 2659375519506813752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_272
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 155
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7588e44d2a8105f20800000000000000
+      internalID: 3409252005545150551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_273
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 137
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e0f95b25316fd50800000000000000
+      internalID: 6770620335753465502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_274
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 97
+        width: 143
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e15edfe8d906ca0800000000000000
+      internalID: -6025643063951155587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_275
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 97
+        width: 142
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2973a4d98cc4cd20800000000000000
+      internalID: 3297985719492114731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_276
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 97
+        width: 142
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd28b0485e8352a0800000000000000
+      internalID: -6749894906804163083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_277
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 97
+        width: 142
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed508c2556fd06800800000000000000
+      internalID: 603727976341177822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_278
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 97
+        width: 142
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc9bca6975c0c110800000000000000
+      internalID: 1279239419446664413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_279
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 97
+        width: 142
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e42155f5c828b90800000000000000
+      internalID: -7241070909781291372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_280
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 131
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147e103f9af2ea350800000000000000
+      internalID: 6029809358068639553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_281
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 123
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0514577309b1d70800000000000000
+      internalID: 9014957646976995489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_282
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 124
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c8d64c8c65ee960800000000000000
+      internalID: 7633133838728530971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_283
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 92
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b295dfe550596680800000000000000
+      internalID: -8761383270046395722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_284
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 0
+        width: 120
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e965520e59ca6d50800000000000000
+      internalID: 6731413998661888487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_285
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 113
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f8909f2106ebc50800000000000000
+      internalID: 6682884531668225906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_286
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 112
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8403bef7fd9efb0800000000000000
+      internalID: -4617914202392082219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_287
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 104
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4509e0949bc00920800000000000000
+      internalID: 2954585194501834063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_288
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 114
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59f15fa2bc87ce10800000000000000
+      internalID: 2217896040576711002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_289
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 104
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730c557c3e930be20800000000000000
+      internalID: 3364252572110405687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_290
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 114
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcee346b50892b90800000000000000
+      internalID: -7266135393773359906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_291
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 0
+        width: 140
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48564d13570eedf00800000000000000
+      internalID: 1143598149350483332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_292
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 0
+        width: 141
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf0c119507484a80800000000000000
+      internalID: -8482451808917385271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_293
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 0
+        width: 120
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c38daebc8110f40800000000000000
+      internalID: 5692858668070485079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_294
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 0
+        width: 120
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714d69e74cc0c7840800000000000000
+      internalID: 5223063705919869975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_295
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 90
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d113bef4d94780210800000000000000
+      internalID: 1299416711495889181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_296
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 88
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82eb600de85b36210800000000000000
+      internalID: 1325102340357144104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_297
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 0
+        width: 120
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d065a3828903ead0800000000000000
+      internalID: -2674283297568890665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_298
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 85
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a2e626cc15c9190800000000000000
+      internalID: -7954392903576573353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_299
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 0
+        width: 142
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c02f248736e15c20800000000000000
+      internalID: 3193586736897663170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_300
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 0
+        width: 143
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7a10700b3366390800000000000000
+      internalID: -7825510471384848455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_301
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 0
+        width: 142
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5adf9c1efa53a610800000000000000
+      internalID: 1631247537486682714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_302
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 0
+        width: 142
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d42abd34f2e3af90800000000000000
+      internalID: -6943456661839665963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_303
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 0
+        width: 142
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb28ace2d3f3374f0800000000000000
+      internalID: -832251974122831170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_304
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 0
+        width: 143
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222645037a554e190800000000000000
+      internalID: -7934122466961235422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_305
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 140
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b98a709ff6ec59f0800000000000000
+      internalID: -478253475093116496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_306
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 23
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64234e1661d80ace0800000000000000
+      internalID: -1395960757213711802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_307
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 23
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d5563148a0dfe00800000000000000
+      internalID: 1080031048016157990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_308
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 23
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc29e9e15c8331ec0800000000000000
+      internalID: -3597469258065472820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_309
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 0
+        width: 140
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965484f8e86181630800000000000000
+      internalID: 3897890279034209641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery Material_310
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 23
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59dc415c9e71dd00800000000000000
+      internalID: 995716202469579101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -23,10 +23,10 @@ public class LevelInfo : ScriptableObject
 [Serializable]
 public class Wave
 {
-    public int index;               //当前是第几波
+    // public int index;               //当前是第几波
     public List<WaveInfo> waveInfo; //当前波有哪些敌人
     public float startTime;         //当前波次的触发时间
-    public float bonus;             //提前召唤波次的奖金
+    public int bonus;             //提前召唤波次的奖金
 }
 
 /// <summary>
