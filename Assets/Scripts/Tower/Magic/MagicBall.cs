@@ -23,7 +23,7 @@ public class MagicBall : Shoot<MagicBall>
     
     private void Update()
     {
-        //如果设定了目标则判断是否到达目标点
+        //如果已经发射出去则判断是否到达目标点
         if(isReady) IsReachingTarget(EDamageType.Magic);
     }
     

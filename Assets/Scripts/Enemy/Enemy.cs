@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Diagnostics;
 using UnityEngine;
+using UnityEngine.Serialization;
 using UnityEngine.WSA;
 
 public class Enemy : MonoBehaviour
@@ -18,7 +19,7 @@ public class Enemy : MonoBehaviour
 
     [Header("移动及路径相关")]
     [SerializeField] private PathManager pathManager;    //路径管理者
-    [SerializeField] public Path path;                   //当前路径
+    [FormerlySerializedAs("path")] [SerializeField] public PathPoints pathPoints;                   //当前路径
     [SerializeField] private Vector2 moveDirection;      //速度放向
     [SerializeField] private int speed = 1;              //移动速度
     [SerializeField] private Vector2 lastPathPoint;
@@ -49,14 +50,14 @@ public class Enemy : MonoBehaviour
     {
         healthPoint = hpDefault;                            //重置生命值
         Offset = new Vector2(0.2f, 0.5f);               //调试用偏移,后期会更改//////////////////////////////////////////
-        path=pathManager.GetPath(0);                    //调试用路径,后期会更改/////////////////////////////////
+        pathPoints=pathManager.GetPath(0);                    //调试用路径,后期会更改/////////////////////////////////
         
-        lastPathPoint = path[path.GetCount() - 1];          //使用一个变量存储上一个路径点的坐标,从而避免重复获取
+        lastPathPoint = pathPoints[pathPoints.GetCount() - 1];          //使用一个变量存储上一个路径点的坐标,从而避免重复获取
         
         transform.position = lastPathPoint+Offset;//将自身移动到路径的最后一个节点位置(即起始点)
-        NextPointIndex = path.GetCount()-2;                   //索引点更改为倒数第二个节点位置
+        NextPointIndex = pathPoints.GetCount()-2;                   //索引点更改为倒数第二个节点位置
 
-        nextPathPoint = path[NextPointIndex];                 //使用一个变量存储上一个路径点的坐标,从而避免重复获取
+        nextPathPoint = pathPoints[NextPointIndex];                 //使用一个变量存储上一个路径点的坐标,从而避免重复获取
         moveDirection = (nextPathPoint - lastPathPoint).normalized;
     }
 
@@ -131,7 +132,7 @@ public class Enemy : MonoBehaviour
             if (NextPointIndex<0)return;
             //否则重新更新路径点相关信息
             lastPathPoint = nextPathPoint;
-            nextPathPoint = path[NextPointIndex];
+            nextPathPoint = pathPoints[NextPointIndex];
             moveDirection = (nextPathPoint - lastPathPoint).normalized;
         }
         transform.Translate(moveDirection * (speed * Time.deltaTime));

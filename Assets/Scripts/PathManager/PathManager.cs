@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class PathManager:SingletonMono<PathManager>
 {
-    public List<Path> pathManager = new List<Path>();
+    public List<PathPoints> pathManager = new List<PathPoints>();
     
-    public Path GetPath(int index)  
+    public PathPoints GetPath(int index)  
     {
         return pathManager[index];
     }

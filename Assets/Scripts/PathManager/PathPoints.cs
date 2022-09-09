@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [Serializable]
-public class Path
+public class PathPoints
 {
     //当前路径的路径点列表
     [SerializeField]private List<Transform> pointList = new List<Transform>();

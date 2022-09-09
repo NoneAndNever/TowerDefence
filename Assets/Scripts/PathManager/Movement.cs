@@ -6,7 +6,7 @@ using UnityEngine;
 public class Movement : MonoBehaviour
 {
     [SerializeField]private PathManager pathManager;
-    private Path _path;
+    private PathPoints _path;
     private Vector2 _dir;
     private int posIndex;
     public int speed = 1;
