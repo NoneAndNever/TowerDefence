@@ -51,8 +51,9 @@ public class Bombs : Shoot<Bombs>
     }
 
 
-    public Bombs SetTargetBombs(Transform target)
+    public override Bombs SetTarget(Transform target)
     {
+        base.SetTarget(target);
         this.target = target;
         Vector2 selfPos = transform.position;
         Vector2 targetPos = target.position;
@@ -66,6 +67,7 @@ public class Bombs : Shoot<Bombs>
         rb.velocity = new Vector2(v_x, v_y);
         return this;
     }
+
 
     protected override void IsReachingTarget(EDamageType damageType)
     {

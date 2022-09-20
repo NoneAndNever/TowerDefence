@@ -23,7 +23,9 @@ public class TowerBase : MonoBehaviour
     [Header("敌人")] 
     [SerializeField]protected ContactFilter2D targetFilter;     //目标过滤器
     [SerializeField]protected List<Collider2D> enemies;
-    
+
+    [Header("基本组件")]
+    [SerializeField] protected Animator anim;
     protected virtual void Atk(Collider2D enemy){}
     
     /// <summary>

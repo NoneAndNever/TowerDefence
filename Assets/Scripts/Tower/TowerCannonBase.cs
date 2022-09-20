@@ -37,7 +37,7 @@ public class TowerCannonBase : TowerBase
         print("开始攻击"+enemy.name);
         GameObject gameObject = ObjectPool.GetInstance().GetObject(bombs[0]);
         gameObject.transform.position = transform.position;
-        gameObject.GetComponent<Bombs>().SetTargetBombs(enemy.transform)
+        gameObject.GetComponent<Bombs>().SetTarget(enemy.transform)
             .damage=Random.Range(atkDamageMin,atkDamageMax)*universalDamageMultiplier*damageMultiplier;
        
         atkTimer = 0;

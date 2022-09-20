@@ -39,6 +39,8 @@ public class InGameManager : SingletonMono<InGameManager>
         goldText.text = gold.ToString();
     }
 
+    public int GetGold() => gold;
+
     /// <summary>
     /// 生命值变化
     /// </summary>

@@ -104,6 +104,7 @@ MonoBehaviour:
   damageMultiplier: 1
   radiusMultiplier: 1
   speedMultiplier: 1
+  towerStatus: 0
   targetFilter:
     useTriggers: 0
     useLayerMask: 1
@@ -119,4 +120,6 @@ MonoBehaviour:
     minNormalAngle: 0
     maxNormalAngle: 0
   enemies: []
-  arrows: []
+  anim: {fileID: 0}
+  arrow: {fileID: 6883535629495520458, guid: e98ceed5e1eac8840bb128e791393588, type: 3}
+  targetCollider: {fileID: 0}
